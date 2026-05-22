@@ -1,52 +1,552 @@
 [
-  {"id": "bl-01", "question": "What breed of dog is Bluey?", "choices": ["Labrador", "Blue Heeler", "Poodle", "Beagle"], "answer": "Blue Heeler"},
-  {"id": "bl-02", "question": "What is the name of Bluey's younger sister?", "choices": ["Bingo", "Bandit", "Chilli", "Muffin"], "answer": "Bingo"},
-  {"id": "bl-03", "question": "What are Bluey's parents' names?", "choices": ["Bandit and Chilli", "Bob and Linda", "Homer and Marge", "Fred and Wilma"], "answer": "Bandit and Chilli"},
-  {"id": "bl-04", "question": "What city in Australia is Bluey set in?", "choices": ["Sydney", "Brisbane", "Melbourne", "Perth"], "answer": "Brisbane"},
-  {"id": "bl-05", "question": "What is Bluey's dad's nickname / name?", "choices": ["Bandit", "Stripe", "Rad", "Bob"], "answer": "Bandit"},
-  {"id": "bl-06", "question": "Who is Bluey's cousin who often plays with them?", "choices": ["Muffin", "Honey", "Judo", "Snickers"], "answer": "Muffin"},
-  {"id": "bl-07", "question": "What is the name of Bluey's mum?", "choices": ["Chilli", "Coco", "Indy", "Honey"], "answer": "Chilli"},
-  {"id": "bl-08", "question": "What game involves keeping a balloon from touching the ground?", "choices": ["Keepy Uppy", "Shadowlands", "Hospital", "Grannies"], "answer": "Keepy Uppy"},
-  {"id": "bl-09", "question": "What is Bandit's brother's name?", "choices": ["Stripe", "Rad", "Lucky", "Rusty"], "answer": "Stripe"},
-  {"id": "bl-10", "question": "Which friend is a terrier who loves honey?", "choices": ["Honey", "Coco", "Indy", "Judo"], "answer": "Honey"},
-  {"id": "bl-11", "question": "What country is Bluey from?", "choices": ["Australia", "United Kingdom", "United States", "Canada"], "answer": "Australia"},
-  {"id": "bl-12", "question": "Which episode is famous for a road trip and car games?", "choices": ["Road Trip", "Sleepytime", "Baby Race", "Flat Pack"], "answer": "Road Trip"},
-  {"id": "bl-13", "question": "Who is Bluey's Dalmatian friend?", "choices": ["Chloe", "Honey", "Indy", "Rusty"], "answer": "Chloe"},
-  {"id": "bl-14", "question": "What is the name of Bluey's school teacher?", "choices": ["Calypso", "Chilli", "Frisky", "Trixie"], "answer": "Calypso"},
-  {"id": "bl-15", "question": "What color is Bingo primarily?", "choices": ["Orange-red / reddish Heeler", "Blue", "Green", "Purple"], "answer": "Orange-red / reddish Heeler"},
-  {"id": "bl-16", "question": "Who is Stripe's wife?", "choices": ["Trixie", "Chilli", "Calypso", "Honey"], "answer": "Trixie"},
-  {"id": "bl-17", "question": "What is the famous sleepy episode with dream sequences?", "choices": ["Sleepytime", "Bike", "Asparagus", "Takeaway"], "answer": "Sleepytime"},
-  {"id": "bl-18", "question": "What food do they often get in the takeaway episode?", "choices": ["Fish and chips / takeaway dinner", "Pizza only", "Sushi only", "Tacos only"], "answer": "Fish and chips / takeaway dinner"},
-  {"id": "bl-19", "question": "What is the name of the heelers' uncle who visits?", "choices": ["Rad", "Stripe", "Bob", "Jack"], "answer": "Rad"},
-  {"id": "bl-20", "question": "Which character says 'Oh, biscuits!' in frustration?", "choices": ["Bandit (and family)", "Only Bingo", "Only Bluey", "Calypso only"], "answer": "Bandit (and family)"},
-  {"id": "bl-21", "question": "What game do Bluey and Bingo play pretending to be old ladies?", "choices": ["Grannies", "Hotel", "Work", "Dance Mode"], "answer": "Grannies"},
-  {"id": "bl-22", "question": "What is Lucky's species?", "choices": ["Labrador", "Heeler", "Terrier", "Poodle"], "answer": "Labrador"},
-  {"id": "bl-23", "question": "Who is Lucky's dad?", "choices": ["Pat", "Bandit", "Stripe", "Rad"], "answer": "Pat"},
-  {"id": "bl-24", "question": "What episode features the kids exploring a creek in nature?", "choices": ["The Creek", "Flat Pack", "Hammerbarn", "Promises"], "answer": "The Creek"},
-  {"id": "bl-25", "question": "What is Muffin's tendency when upset?", "choices": ["Flopping / tantrums ('Muffin drop')", "Singing", "Sleeping", "Drawing"], "answer": "Flopping / tantrums ('Muffin drop')"},
-  {"id": "bl-26", "question": "Who are Muffin's parents?", "choices": ["Stripe and Trixie", "Bandit and Chilli", "Rad and someone", "Pat and Shanelle"], "answer": "Stripe and Trixie"},
-  {"id": "bl-27", "question": "What is the episode about building furniture from a flat pack?", "choices": ["Flat Pack", "The Pool", "BBQ", "Weekend"], "answer": "Flat Pack"},
-  {"id": "bl-28", "question": "What does Bluey often start games with?", "choices": ["'Play episode' imagination and rules", "A coin flip only", "A phone app", "A written contract"], "answer": "'Play episode' imagination and rules"},
-  {"id": "bl-29", "question": "Who is Coco?", "choices": ["A pink poodle friend", "Bluey's sister", "A teacher", "A cat"], "answer": "A pink poodle friend"},
-  {"id": "bl-30", "question": "What is the pool episode commonly called?", "choices": ["The Pool", "Swim School", "Water Safety", "Splash"], "answer": "The Pool"},
-  {"id": "bl-31", "question": "Who is Indy?", "choices": ["An imaginative Afghan Hound friend", "A cat", "Bluey's cousin", "The postman"], "answer": "An imaginative Afghan Hound friend"},
-  {"id": "bl-32", "question": "What is Bandit's job (generally depicted)?", "choices": ["Archaeologist", "Teacher", "Vet", "Chef"], "answer": "Archaeologist"},
-  {"id": "bl-33", "question": "What is Chilli's job (generally depicted)?", "choices": ["Airport worker / office roles shown", "Doctor", "Firefighter", "Artist only"], "answer": "Airport worker / office roles shown"},
-  {"id": "bl-34", "question": "What game uses shadows and can't step on lines?", "choices": ["Shadowlands", "Keepy Uppy", "Hotel", "Phones"], "answer": "Shadowlands"},
-  {"id": "bl-35", "question": "Who is Rusty?", "choices": ["A red Kelpie friend", "Bluey's brother", "A bird", "Bandit's boss"], "answer": "A red Kelpie friend"},
-  {"id": "bl-36", "question": "What is the episode 'Baby Race' about?", "choices": ["Chilli comparing Bingo's milestones", "A car race", "Swimming lessons", "School sports day"], "answer": "Chilli comparing Bingo's milestones"},
-  {"id": "bl-37", "question": "What is the name of the supermarket episode with the claw game?", "choices": ["Hammerbarn (Bunnings-style store)", "Markets", "Takeaway", "BBQ"], "answer": "Hammerbarn (Bunnings-style store)"},
-  {"id": "bl-38", "question": "What store is Hammerbarn a parody of?", "choices": ["Bunnings (hardware store)", "IKEA only", "Target", "Walmart"], "answer": "Bunnings (hardware store)"},
-  {"id": "bl-39", "question": "Who is Snickers?", "choices": ["A dachshund friend", "A cat", "Bluey's uncle", "A bird"], "answer": "A dachshund friend"},
-  {"id": "bl-40", "question": "What is 'Dance Mode' about?", "choices": ["Getting one song play on the car stereo", "A ballet class", "A TikTok trend", "A school dance"], "answer": "Getting one song play on the car stereo"},
-  {"id": "bl-41", "question": "Who is Jean-Luc?", "choices": ["A French-speaking friend Bluey meets camping", "A teacher", "Bandit's friend from work", "A stuffed toy only"], "answer": "A French-speaking friend Bluey meets camping"},
-  {"id": "bl-42", "question": "What is the camping episode where Bluey learns French phrases?", "choices": ["Camping", "The Creek", "Mountains", "Rain"], "answer": "Camping"},
-  {"id": "bl-43", "question": "Which episode focuses on Bingo's beloved stuffed bunny toy?", "choices": ["Bunny", "Sleepytime", "Grannies", "Bike"], "answer": "Bunny"},
-  {"id": "bl-44", "question": "Who is Winton?", "choices": ["An English bulldog friend", "A bird", "A cat", "Bluey's teacher"], "answer": "An English bulldog friend"},
-  {"id": "bl-45", "question": "What is the episode about promises and ice cream?", "choices": ["Promises", "Ice Cream", "Takeaway", "BBQ"], "answer": "Promises"},
-  {"id": "bl-46", "question": "What network airs Bluey in Australia and internationally (US)?", "choices": ["ABC Kids / Disney partnership", "Netflix only", "Cartoon Network only", "Nickelodeon only"], "answer": "ABC Kids / Disney partnership"},
-  {"id": "bl-47", "question": "How long are most Bluey episodes?", "choices": ["About 7 minutes", "30 minutes", "1 hour", "15 minutes"], "answer": "About 7 minutes"},
-  {"id": "bl-48", "question": "Which episode shows Bluey learning to ride a bike with persistence?", "choices": ["Bike", "Dance Mode", "The Pool", "BBQ"], "answer": "Bike"},
-  {"id": "bl-49", "question": "Who is Judo?", "choices": ["A Chow Chow friend, sometimes competitive", "Bluey's sister", "A cat", "The vet"], "answer": "A Chow Chow friend, sometimes competitive"},
-  {"id": "bl-50", "question": "What phrase does the Heeler family often use when something goes wrong?", "choices": ["Oh, biscuits!", "Crikey!", "G'day mate only", "No worries only"], "answer": "Oh, biscuits!"}
+  {
+    "id": "bl-01",
+    "question": "What is the name of the Heeler family's next-door neighbor dad?",
+    "choices": [
+      "Lucky's dad Pat",
+      "Stripe",
+      "Rad",
+      "Bob"
+    ],
+    "answer": "Lucky's dad Pat"
+  },
+  {
+    "id": "bl-02",
+    "question": "In 'Sleepytime,' what planet does Bingo dream about visiting?",
+    "choices": [
+      "Saturn",
+      "Mars",
+      "The Moon",
+      "Jupiter"
+    ],
+    "answer": "Saturn"
+  },
+  {
+    "id": "bl-03",
+    "question": "What is the surname of Bluey's family?",
+    "choices": [
+      "Heeler",
+      "Smith",
+      "Brown",
+      "Jones"
+    ],
+    "answer": "Heeler"
+  },
+  {
+    "id": "bl-04",
+    "question": "What city in Australia is Bluey set in?",
+    "choices": [
+      "Sydney",
+      "Brisbane",
+      "Melbourne",
+      "Perth"
+    ],
+    "answer": "Brisbane"
+  },
+  {
+    "id": "bl-05",
+    "question": "What instrument does Bandit play in the 'Musical Statues' episode?",
+    "choices": [
+      "Guitar",
+      "Piano",
+      "Drums",
+      "Violin"
+    ],
+    "answer": "Guitar"
+  },
+  {
+    "id": "bl-06",
+    "question": "Who is Bluey's cousin who often plays with them?",
+    "choices": [
+      "Muffin",
+      "Honey",
+      "Judo",
+      "Snickers"
+    ],
+    "answer": "Muffin"
+  },
+  {
+    "id": "bl-07",
+    "question": "What is Chilli's sister's name who visits in some episodes?",
+    "choices": [
+      "Brandy",
+      "Trixie",
+      "Frisky",
+      "Calypso"
+    ],
+    "answer": "Brandy"
+  },
+  {
+    "id": "bl-08",
+    "question": "What game involves keeping a balloon from touching the ground?",
+    "choices": [
+      "Keepy Uppy",
+      "Shadowlands",
+      "Hospital",
+      "Grannies"
+    ],
+    "answer": "Keepy Uppy"
+  },
+  {
+    "id": "bl-09",
+    "question": "What is Bandit's brother's name?",
+    "choices": [
+      "Stripe",
+      "Rad",
+      "Lucky",
+      "Rusty"
+    ],
+    "answer": "Stripe"
+  },
+  {
+    "id": "bl-10",
+    "question": "Which friend is a terrier who loves honey?",
+    "choices": [
+      "Honey",
+      "Coco",
+      "Indy",
+      "Judo"
+    ],
+    "answer": "Honey"
+  },
+  {
+    "id": "bl-11",
+    "question": "What Australian state is Brisbane in, where Bluey is set?",
+    "choices": [
+      "Queensland",
+      "New South Wales",
+      "Victoria",
+      "Tasmania"
+    ],
+    "answer": "Queensland"
+  },
+  {
+    "id": "bl-12",
+    "question": "Which episode is famous for a road trip and car games?",
+    "choices": [
+      "Road Trip",
+      "Sleepytime",
+      "Baby Race",
+      "Flat Pack"
+    ],
+    "answer": "Road Trip"
+  },
+  {
+    "id": "bl-13",
+    "question": "Who is Bluey's Dalmatian friend?",
+    "choices": [
+      "Chloe",
+      "Honey",
+      "Indy",
+      "Rusty"
+    ],
+    "answer": "Chloe"
+  },
+  {
+    "id": "bl-14",
+    "question": "What is the name of Bluey's school teacher?",
+    "choices": [
+      "Calypso",
+      "Chilli",
+      "Frisky",
+      "Trixie"
+    ],
+    "answer": "Calypso"
+  },
+  {
+    "id": "bl-15",
+    "question": "Which Heeler sibling is younger?",
+    "choices": [
+      "Bingo",
+      "Bluey",
+      "Muffin",
+      "Sock"
+    ],
+    "answer": "Bingo"
+  },
+  {
+    "id": "bl-16",
+    "question": "Who is Stripe's wife?",
+    "choices": [
+      "Trixie",
+      "Chilli",
+      "Calypso",
+      "Honey"
+    ],
+    "answer": "Trixie"
+  },
+  {
+    "id": "bl-17",
+    "question": "What is the famous sleepy episode with dream sequences?",
+    "choices": [
+      "Sleepytime",
+      "Bike",
+      "Asparagus",
+      "Takeaway"
+    ],
+    "answer": "Sleepytime"
+  },
+  {
+    "id": "bl-18",
+    "question": "In 'Takeaway,' what animal steals their food by the water?",
+    "choices": [
+      "A seagull",
+      "A dog",
+      "A crab",
+      "A cat"
+    ],
+    "answer": "A seagull"
+  },
+  {
+    "id": "bl-19",
+    "question": "What is the name of the heelers' uncle who visits?",
+    "choices": [
+      "Rad",
+      "Stripe",
+      "Bob",
+      "Jack"
+    ],
+    "answer": "Rad"
+  },
+  {
+    "id": "bl-20",
+    "question": "What does Bandit often say when a game gets chaotic?",
+    "choices": [
+      "Oh, biscuits!",
+      "Fair dinkum",
+      "Crikey",
+      "G'day"
+    ],
+    "answer": "Oh, biscuits!"
+  },
+  {
+    "id": "bl-21",
+    "question": "What game do Bluey and Bingo play pretending to be old ladies?",
+    "choices": [
+      "Grannies",
+      "Hotel",
+      "Work",
+      "Dance Mode"
+    ],
+    "answer": "Grannies"
+  },
+  {
+    "id": "bl-22",
+    "question": "What is the name of the Heelers' next-door neighbor boy?",
+    "choices": [
+      "Lucky",
+      "Rusty",
+      "Mackenzie",
+      "Jack"
+    ],
+    "answer": "Lucky"
+  },
+  {
+    "id": "bl-23",
+    "question": "Who is Lucky's dad?",
+    "choices": [
+      "Pat",
+      "Bandit",
+      "Stripe",
+      "Rad"
+    ],
+    "answer": "Pat"
+  },
+  {
+    "id": "bl-24",
+    "question": "What episode features the kids exploring a creek in nature?",
+    "choices": [
+      "The Creek",
+      "Flat Pack",
+      "Hammerbarn",
+      "Promises"
+    ],
+    "answer": "The Creek"
+  },
+  {
+    "id": "bl-25",
+    "question": "What is the name of Muffin's younger sibling?",
+    "choices": [
+      "Socks",
+      "Honey",
+      "Buddy",
+      "Peanut"
+    ],
+    "answer": "Socks"
+  },
+  {
+    "id": "bl-26",
+    "question": "Who are Muffin's parents?",
+    "choices": [
+      "Stripe and Trixie",
+      "Bandit and Chilli",
+      "Rad and someone",
+      "Pat and Shanelle"
+    ],
+    "answer": "Stripe and Trixie"
+  },
+  {
+    "id": "bl-27",
+    "question": "What is the episode about building furniture from a flat pack?",
+    "choices": [
+      "Flat Pack",
+      "The Pool",
+      "BBQ",
+      "Weekend"
+    ],
+    "answer": "Flat Pack"
+  },
+  {
+    "id": "bl-28",
+    "question": "In 'Phones,' what do the parents pretend their devices are?",
+    "choices": [
+      "Old-fashioned phones with cords",
+      "Tablets only",
+      "Radios",
+      "TV remotes"
+    ],
+    "answer": "Old-fashioned phones with cords"
+  },
+  {
+    "id": "bl-29",
+    "question": "Who is Coco?",
+    "choices": [
+      "A pink poodle friend",
+      "Bluey's sister",
+      "A teacher",
+      "A cat"
+    ],
+    "answer": "A pink poodle friend"
+  },
+  {
+    "id": "bl-30",
+    "question": "What is the pool episode commonly called?",
+    "choices": [
+      "The Pool",
+      "Swim School",
+      "Water Safety",
+      "Splash"
+    ],
+    "answer": "The Pool"
+  },
+  {
+    "id": "bl-31",
+    "question": "Who is Indy?",
+    "choices": [
+      "An imaginative Afghan Hound friend",
+      "A cat",
+      "Bluey's cousin",
+      "The postman"
+    ],
+    "answer": "An imaginative Afghan Hound friend"
+  },
+  {
+    "id": "bl-32",
+    "question": "What is Bandit's job (generally depicted)?",
+    "choices": [
+      "Archaeologist",
+      "Teacher",
+      "Vet",
+      "Chef"
+    ],
+    "answer": "Archaeologist"
+  },
+  {
+    "id": "bl-33",
+    "question": "In several episodes, where does Chilli work?",
+    "choices": [
+      "Airport",
+      "Hospital",
+      "School",
+      "Supermarket"
+    ],
+    "answer": "Airport"
+  },
+  {
+    "id": "bl-34",
+    "question": "What game uses shadows and can't step on lines?",
+    "choices": [
+      "Shadowlands",
+      "Keepy Uppy",
+      "Hotel",
+      "Phones"
+    ],
+    "answer": "Shadowlands"
+  },
+  {
+    "id": "bl-35",
+    "question": "Who is Rusty?",
+    "choices": [
+      "A red Kelpie friend",
+      "Bluey's brother",
+      "A bird",
+      "Bandit's boss"
+    ],
+    "answer": "A red Kelpie friend"
+  },
+  {
+    "id": "bl-36",
+    "question": "What is the episode 'Baby Race' about?",
+    "choices": [
+      "Chilli comparing Bingo's milestones",
+      "A car race",
+      "Swimming lessons",
+      "School sports day"
+    ],
+    "answer": "Chilli comparing Bingo's milestones"
+  },
+  {
+    "id": "bl-37",
+    "question": "In 'Hammerbarn,' what big purchase does Bandit struggle to assemble?",
+    "choices": [
+      "Outdoor pizza oven",
+      "Swimming pool",
+      "Trampoline",
+      "Tree house"
+    ],
+    "answer": "Outdoor pizza oven"
+  },
+  {
+    "id": "bl-38",
+    "question": "Hammerbarn is a parody of which Australian hardware chain?",
+    "choices": [
+      "Bunnings",
+      "IKEA",
+      "Target",
+      "Costco"
+    ],
+    "answer": "Bunnings"
+  },
+  {
+    "id": "bl-39",
+    "question": "Who is Snickers?",
+    "choices": [
+      "A dachshund friend",
+      "A cat",
+      "Bluey's uncle",
+      "A bird"
+    ],
+    "answer": "A dachshund friend"
+  },
+  {
+    "id": "bl-40",
+    "question": "In 'Dance Mode,' what do the kids slowly earn from good car behavior?",
+    "choices": [
+      "Seconds of a favorite song",
+      "Ice cream immediately",
+      "A new toy",
+      "Extra screen time"
+    ],
+    "answer": "Seconds of a favorite song"
+  },
+  {
+    "id": "bl-41",
+    "question": "Who is Jean-Luc?",
+    "choices": [
+      "A French-speaking friend Bluey meets camping",
+      "A teacher",
+      "Bandit's friend from work",
+      "A stuffed toy only"
+    ],
+    "answer": "A French-speaking friend Bluey meets camping"
+  },
+  {
+    "id": "bl-42",
+    "question": "What is the camping episode where Bluey learns French phrases?",
+    "choices": [
+      "Camping",
+      "The Creek",
+      "Mountains",
+      "Rain"
+    ],
+    "answer": "Camping"
+  },
+  {
+    "id": "bl-43",
+    "question": "Which episode focuses on Bingo's beloved stuffed bunny toy?",
+    "choices": [
+      "Bunny",
+      "Sleepytime",
+      "Grannies",
+      "Bike"
+    ],
+    "answer": "Bunny"
+  },
+  {
+    "id": "bl-44",
+    "question": "Who is Winton?",
+    "choices": [
+      "An English bulldog friend",
+      "A bird",
+      "A cat",
+      "Bluey's teacher"
+    ],
+    "answer": "An English bulldog friend"
+  },
+  {
+    "id": "bl-45",
+    "question": "What is the episode about promises and ice cream?",
+    "choices": [
+      "Promises",
+      "Ice Cream",
+      "Takeaway",
+      "BBQ"
+    ],
+    "answer": "Promises"
+  },
+  {
+    "id": "bl-46",
+    "question": "Who created and voices Bandit in the original Australian version?",
+    "choices": [
+      "Dave McCormack",
+      "Hugh Jackman",
+      "Chris Hemsworth",
+      "Eric Bana"
+    ],
+    "answer": "Dave McCormack"
+  },
+  {
+    "id": "bl-47",
+    "question": "Roughly how long is each standard Bluey episode?",
+    "choices": [
+      "7 minutes",
+      "22 minutes",
+      "45 minutes",
+      "15 minutes"
+    ],
+    "answer": "7 minutes"
+  },
+  {
+    "id": "bl-48",
+    "question": "Which episode shows Bluey learning to ride a bike with persistence?",
+    "choices": [
+      "Bike",
+      "Dance Mode",
+      "The Pool",
+      "BBQ"
+    ],
+    "answer": "Bike"
+  },
+  {
+    "id": "bl-49",
+    "question": "Which friend is a Chow Chow who can be competitive?",
+    "choices": [
+      "Judo",
+      "Honey",
+      "Indy",
+      "Coco"
+    ],
+    "answer": "Judo"
+  },
+  {
+    "id": "bl-50",
+    "question": "What phrase does the Heeler family often use when something goes wrong?",
+    "choices": [
+      "Oh, biscuits!",
+      "Crikey!",
+      "G'day mate only",
+      "No worries only"
+    ],
+    "answer": "Oh, biscuits!"
+  }
 ]

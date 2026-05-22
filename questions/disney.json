@@ -1,52 +1,552 @@
 [
-  {"id": "dis-01", "question": "What is the name of the snowman in Frozen?", "choices": ["Sven", "Olaf", "Kristoff", "Hans"], "answer": "Olaf"},
-  {"id": "dis-02", "question": "Which princess loses a glass slipper at midnight?", "choices": ["Aurora", "Cinderella", "Belle", "Jasmine"], "answer": "Cinderella"},
-  {"id": "dis-03", "question": "What is the name of Simba's father in The Lion King?", "choices": ["Scar", "Mufasa", "Timon", "Rafiki"], "answer": "Mufasa"},
-  {"id": "dis-04", "question": "Who is Mickey Mouse's girlfriend?", "choices": ["Daisy Duck", "Minnie Mouse", "Clarabelle", "Tinker Bell"], "answer": "Minnie Mouse"},
-  {"id": "dis-05", "question": "What does Hakuna Matata mean?", "choices": ["Be brave", "No worries", "Remember who you are", "Circle of life"], "answer": "No worries"},
-  {"id": "dis-06", "question": "Which Disney park opened first in Florida?", "choices": ["EPCOT", "Magic Kingdom", "Hollywood Studios", "Animal Kingdom"], "answer": "Magic Kingdom"},
-  {"id": "dis-07", "question": "What is the name of Aladdin's monkey?", "choices": ["Iago", "Abu", "Rajah", "Jafar"], "answer": "Abu"},
-  {"id": "dis-08", "question": "Who is the villain in The Little Mermaid?", "choices": ["Ursula", "Maleficent", "Cruella", "Yzma"], "answer": "Ursula"},
-  {"id": "dis-09", "question": "What kind of fish is Nemo?", "choices": ["Clownfish", "Blue tang", "Angelfish", "Shark"], "answer": "Clownfish"},
-  {"id": "dis-10", "question": "What is the name of Woody's owner in Toy Story?", "choices": ["Andy", "Sid", "Bonnie", "Al"], "answer": "Andy"},
-  {"id": "dis-11", "question": "Which princess has long magical hair?", "choices": ["Rapunzel", "Merida", "Moana", "Tiana"], "answer": "Rapunzel"},
-  {"id": "dis-12", "question": "What is the name of the toy cowboy in Toy Story?", "choices": ["Buzz", "Woody", "Rex", "Slinky"], "answer": "Woody"},
-  {"id": "dis-13", "question": "Who sings 'Let It Go' in Frozen?", "choices": ["Anna", "Elsa", "Olaf", "Kristoff"], "answer": "Elsa"},
-  {"id": "dis-14", "question": "What is the name of Peter Pan's fairy friend?", "choices": ["Wendy", "Tinker Bell", "Tiger Lily", "Nana"], "answer": "Tinker Bell"},
-  {"id": "dis-15", "question": "Which movie features the song 'A Whole New World'?", "choices": ["Aladdin", "Mulan", "Hercules", "Pocahontas"], "answer": "Aladdin"},
-  {"id": "dis-16", "question": "What is the name of the Caribbean pirate played by Johnny Depp at Disney?", "choices": ["Captain Hook", "Jack Sparrow", "Barbossa", "Davy Jones"], "answer": "Jack Sparrow"},
-  {"id": "dis-17", "question": "Who is Bambi's rabbit friend?", "choices": ["Thumper", "Flower", "Faline", "Friend Owl"], "answer": "Thumper"},
-  {"id": "dis-18", "question": "What is the prince called while under the curse in Beauty and the Beast?", "choices": ["The Beast", "Gaston", "Lumière", "Chip"], "answer": "The Beast"},
-  {"id": "dis-19", "question": "Which Disney princess is from Polynesia?", "choices": ["Moana", "Mulan", "Merida", "Ariel"], "answer": "Moana"},
-  {"id": "dis-20", "question": "What is the name of the flying elephant?", "choices": ["Dumbo", "Bambi", "Baloo", "Terk"], "answer": "Dumbo"},
-  {"id": "dis-21", "question": "Who is the demigod Maui's human partner in Moana?", "choices": ["Moana", "Gramma Tala", "Heihei", "Tamatoa"], "answer": "Moana"},
-  {"id": "dis-22", "question": "What is the name of the space ranger toy in Toy Story?", "choices": ["Buzz Lightyear", "Woody", "Zurg", "Hamm"], "answer": "Buzz Lightyear"},
-  {"id": "dis-23", "question": "Which villain wants 101 dalmatian puppies?", "choices": ["Cruella de Vil", "Maleficent", "Ursula", "Lady Tremaine"], "answer": "Cruella de Vil"},
-  {"id": "dis-24", "question": "What is the name of the bear who teaches Mowgli in The Jungle Book?", "choices": ["Baloo", "Bagheera", "Shere Khan", "King Louie"], "answer": "Baloo"},
-  {"id": "dis-25", "question": "Who is Donald Duck's girlfriend?", "choices": ["Minnie", "Daisy Duck", "Clarabelle", "Huey"], "answer": "Daisy Duck"},
-  {"id": "dis-26", "question": "What is the name of the dragon in Mulan?", "choices": ["Mushu", "Shang", "Khan", "Cri-Kee"], "answer": "Mushu"},
-  {"id": "dis-27", "question": "Which movie features the song 'Under the Sea'?", "choices": ["The Little Mermaid", "Moana", "Finding Nemo", "Lilo & Stitch"], "answer": "The Little Mermaid"},
-  {"id": "dis-28", "question": "What is the name of the clock and candlestick in Beauty and the Beast?", "choices": ["Lumière and Cogsworth", "Chip and Mrs. Potts only", "Gaston and LeFou", "Belle and Maurice"], "answer": "Lumière and Cogsworth"},
-  {"id": "dis-29", "question": "Who is the main villain in The Lion King?", "choices": ["Scar", "Hyenas only", "Zazu", "Mufasa"], "answer": "Scar"},
-  {"id": "dis-30", "question": "What is the name of the Hawaiian girl who adopts Stitch?", "choices": ["Nani", "Lilo", "Jumba", "Pleakley"], "answer": "Lilo"},
-  {"id": "dis-31", "question": "Which princess kisses a frog prince?", "choices": ["Tiana", "Aurora", "Snow White", "Ariel"], "answer": "Tiana"},
-  {"id": "dis-32", "question": "What is the name of the forgetful blue fish in Finding Nemo?", "choices": ["Dory", "Marlin", "Bruce", "Crush"], "answer": "Dory"},
-  {"id": "dis-33", "question": "Who founded the Walt Disney Company with Walt?", "choices": ["Roy Disney", "Ub Iwerks only", "Mickey Mouse", "Steve Jobs"], "answer": "Roy Disney"},
-  {"id": "dis-34", "question": "What is the name of the ice harvester who helps Anna in Frozen?", "choices": ["Kristoff", "Hans", "Olaf", "Sven"], "answer": "Kristoff"},
-  {"id": "dis-35", "question": "Which movie features a genie voiced famously by Robin Williams?", "choices": ["Aladdin", "Hercules", "Tarzan", "The Emperor's New Groove"], "answer": "Aladdin"},
-  {"id": "dis-36", "question": "What is the name of the Scottish princess who shoots a bow?", "choices": ["Merida", "Elsa", "Moana", "Mulan"], "answer": "Merida"},
-  {"id": "dis-37", "question": "Who is the cheetah-like villain in The Emperor's New Groove?", "choices": ["Yzma", "Kronk", "Pacha", "Kuzco"], "answer": "Yzma"},
-  {"id": "dis-38", "question": "What is the name of the rat who cooks in Paris?", "choices": ["Remy", "Linguini", "Skinner", "Emile"], "answer": "Remy"},
-  {"id": "dis-39", "question": "Which movie is set on the Greek hero Hercules?", "choices": ["Hercules", "Atlantis", "Tarzan", "Encanto"], "answer": "Hercules"},
-  {"id": "dis-40", "question": "What is the name of the snow queen's sister in Frozen?", "choices": ["Anna", "Elsa", "Olaf", "Iduna"], "answer": "Anna"},
-  {"id": "dis-41", "question": "What is the name of Mickey Mouse's pet dog?", "choices": ["Pluto", "Goofy", "Donald", "Max"], "answer": "Pluto"},
-  {"id": "dis-42", "question": "What is the name of the Incan emperor turned llama?", "choices": ["Kuzco", "Pacha", "Kronk", "Miguel"], "answer": "Kuzco"},
-  {"id": "dis-43", "question": "Which Encanto sister has super strength?", "choices": ["Luisa", "Isabela", "Mirabel", "Pepa"], "answer": "Luisa"},
-  {"id": "dis-44", "question": "Who is the only Madrigal without a gift in Encanto?", "choices": ["Mirabel", "Bruno", "Dolores", "Camilo"], "answer": "Mirabel"},
-  {"id": "dis-45", "question": "What is the name of the Caribbean ride with singing pirates?", "choices": ["Pirates of the Caribbean", "Jungle Cruise", "Haunted Mansion", "Space Mountain"], "answer": "Pirates of the Caribbean"},
-  {"id": "dis-46", "question": "Which princess eats a poisoned apple?", "choices": ["Snow White", "Aurora", "Cinderella", "Belle"], "answer": "Snow White"},
-  {"id": "dis-47", "question": "What is the name of the villain who becomes a dragon in Sleeping Beauty?", "choices": ["Maleficent", "Ursula", "Cruella", "Gothel"], "answer": "Maleficent"},
-  {"id": "dis-48", "question": "Who is Goofy's son?", "choices": ["Max", "Huey", "Donald", "Pluto"], "answer": "Max"},
-  {"id": "dis-49", "question": "What is the name of the robot who cleans Earth in a Pixar film?", "choices": ["WALL-E", "EVE", "AUTO", "Buzz"], "answer": "WALL-E"},
-  {"id": "dis-50", "question": "Which movie features the song 'Circle of Life'?", "choices": ["The Lion King", "Tarzan", "Brother Bear", "Bambi"], "answer": "The Lion King"}
+  {
+    "id": "dis-01",
+    "question": "In Frozen, what is the name of Kristoff's reindeer companion?",
+    "choices": [
+      "Sven",
+      "Olaf",
+      "Hans",
+      "Marshmallow"
+    ],
+    "answer": "Sven"
+  },
+  {
+    "id": "dis-02",
+    "question": "In Cinderella, what are the stepsisters' names (collectively known as)?",
+    "choices": [
+      "Anastasia and Drizella",
+      "Belle and Ariel",
+      "Anna and Elsa",
+      "Aurora and Merida"
+    ],
+    "answer": "Anastasia and Drizella"
+  },
+  {
+    "id": "dis-03",
+    "question": "What is the name of Simba's father in The Lion King?",
+    "choices": [
+      "Scar",
+      "Mufasa",
+      "Timon",
+      "Rafiki"
+    ],
+    "answer": "Mufasa"
+  },
+  {
+    "id": "dis-04",
+    "question": "What is the name of Donald Duck's uncle who wears a sailor suit?",
+    "choices": [
+      "Scrooge McDuck",
+      "Goofy",
+      "Pluto",
+      "Chip"
+    ],
+    "answer": "Scrooge McDuck"
+  },
+  {
+    "id": "dis-05",
+    "question": "In The Lion King, who teaches Simba about the great kings of the past?",
+    "choices": [
+      "Mufasa",
+      "Scar",
+      "Timon",
+      "Zazu"
+    ],
+    "answer": "Mufasa"
+  },
+  {
+    "id": "dis-06",
+    "question": "Which Disney park opened first in Florida?",
+    "choices": [
+      "EPCOT",
+      "Magic Kingdom",
+      "Hollywood Studios",
+      "Animal Kingdom"
+    ],
+    "answer": "Magic Kingdom"
+  },
+  {
+    "id": "dis-07",
+    "question": "In Aladdin, what is the name of Princess Jasmine's tiger?",
+    "choices": [
+      "Rajah",
+      "Abu",
+      "Iago",
+      "Jafar"
+    ],
+    "answer": "Rajah"
+  },
+  {
+    "id": "dis-08",
+    "question": "Who is the villain in The Little Mermaid?",
+    "choices": [
+      "Ursula",
+      "Maleficent",
+      "Cruella",
+      "Yzma"
+    ],
+    "answer": "Ursula"
+  },
+  {
+    "id": "dis-09",
+    "question": "What type of fish is Dory in Finding Nemo?",
+    "choices": [
+      "Blue tang",
+      "Clownfish",
+      "Angelfish",
+      "Butterflyfish"
+    ],
+    "answer": "Blue tang"
+  },
+  {
+    "id": "dis-10",
+    "question": "Who becomes the owner of Woody and the gang after Andy leaves for college?",
+    "choices": [
+      "Bonnie",
+      "Sid",
+      "Al",
+      "Emily"
+    ],
+    "answer": "Bonnie"
+  },
+  {
+    "id": "dis-11",
+    "question": "Which princess has long magical hair?",
+    "choices": [
+      "Rapunzel",
+      "Merida",
+      "Moana",
+      "Tiana"
+    ],
+    "answer": "Rapunzel"
+  },
+  {
+    "id": "dis-12",
+    "question": "In Toy Story, what is Buzz Lightyear's toy line catchphrase about?",
+    "choices": [
+      "Space ranger mission",
+      "Cowboy roundup",
+      "Dinosaur attack",
+      "Pizza planet"
+    ],
+    "answer": "Space ranger mission"
+  },
+  {
+    "id": "dis-13",
+    "question": "In Frozen, which sister accidentally freezes Arendelle?",
+    "choices": [
+      "Elsa",
+      "Anna",
+      "Olaf",
+      "Iduna"
+    ],
+    "answer": "Elsa"
+  },
+  {
+    "id": "dis-14",
+    "question": "What is the name of Peter Pan's fairy friend?",
+    "choices": [
+      "Wendy",
+      "Tinker Bell",
+      "Tiger Lily",
+      "Nana"
+    ],
+    "answer": "Tinker Bell"
+  },
+  {
+    "id": "dis-15",
+    "question": "Which movie features the song 'A Whole New World'?",
+    "choices": [
+      "Aladdin",
+      "Mulan",
+      "Hercules",
+      "Pocahontas"
+    ],
+    "answer": "Aladdin"
+  },
+  {
+    "id": "dis-16",
+    "question": "What is the name of Jack Sparrow's ship?",
+    "choices": [
+      "Black Pearl",
+      "Flying Dutchman",
+      "Queen Anne's Revenge",
+      "Interceptor"
+    ],
+    "answer": "Black Pearl"
+  },
+  {
+    "id": "dis-17",
+    "question": "Who is Bambi's rabbit friend?",
+    "choices": [
+      "Thumper",
+      "Flower",
+      "Faline",
+      "Friend Owl"
+    ],
+    "answer": "Thumper"
+  },
+  {
+    "id": "dis-18",
+    "question": "In Beauty and the Beast, what is the name of the teacup?",
+    "choices": [
+      "Chip",
+      "Lumi\u00e8re",
+      "Cogsworth",
+      "Mrs. Potts"
+    ],
+    "answer": "Chip"
+  },
+  {
+    "id": "dis-19",
+    "question": "Which Disney princess is from Polynesia?",
+    "choices": [
+      "Moana",
+      "Mulan",
+      "Merida",
+      "Ariel"
+    ],
+    "answer": "Moana"
+  },
+  {
+    "id": "dis-20",
+    "question": "Who is the villain circus owner in Dumbo?",
+    "choices": [
+      "The Ringmaster",
+      "Scar",
+      "Gaston",
+      "Ursula"
+    ],
+    "answer": "The Ringmaster"
+  },
+  {
+    "id": "dis-21",
+    "question": "Who is the demigod Maui's human partner in Moana?",
+    "choices": [
+      "Moana",
+      "Gramma Tala",
+      "Heihei",
+      "Tamatoa"
+    ],
+    "answer": "Moana"
+  },
+  {
+    "id": "dis-22",
+    "question": "In Toy Story 2, what is the name of the cowgirl doll Woody meets?",
+    "choices": [
+      "Jessie",
+      "Bo Peep",
+      "Barbie",
+      "Belle"
+    ],
+    "answer": "Jessie"
+  },
+  {
+    "id": "dis-23",
+    "question": "In 101 Dalmatians, how many puppies does Pongo father initially?",
+    "choices": [
+      "15",
+      "101",
+      "99",
+      "50"
+    ],
+    "answer": "15"
+  },
+  {
+    "id": "dis-24",
+    "question": "What is the name of the bear who teaches Mowgli in The Jungle Book?",
+    "choices": [
+      "Baloo",
+      "Bagheera",
+      "Shere Khan",
+      "King Louie"
+    ],
+    "answer": "Baloo"
+  },
+  {
+    "id": "dis-25",
+    "question": "In The Lion King, what is Simba's mother's name?",
+    "choices": [
+      "Sarabi",
+      "Nala",
+      "Shenzi",
+      "Kiara"
+    ],
+    "answer": "Sarabi"
+  },
+  {
+    "id": "dis-26",
+    "question": "What is the name of the dragon in Mulan?",
+    "choices": [
+      "Mushu",
+      "Shang",
+      "Khan",
+      "Cri-Kee"
+    ],
+    "answer": "Mushu"
+  },
+  {
+    "id": "dis-27",
+    "question": "Which movie features the song 'Under the Sea'?",
+    "choices": [
+      "The Little Mermaid",
+      "Moana",
+      "Finding Nemo",
+      "Lilo & Stitch"
+    ],
+    "answer": "The Little Mermaid"
+  },
+  {
+    "id": "dis-28",
+    "question": "In Beauty and the Beast, who is the talking clock?",
+    "choices": [
+      "Cogsworth",
+      "Lumi\u00e8re",
+      "Chip",
+      "Gaston"
+    ],
+    "answer": "Cogsworth"
+  },
+  {
+    "id": "dis-29",
+    "question": "Who is the main villain in The Lion King?",
+    "choices": [
+      "Scar",
+      "Hyenas only",
+      "Zazu",
+      "Mufasa"
+    ],
+    "answer": "Scar"
+  },
+  {
+    "id": "dis-30",
+    "question": "In Lilo & Stitch, what does Stitch call his new family?",
+    "choices": [
+      "Ohana",
+      "Aloha",
+      "Hula",
+      "Tiki"
+    ],
+    "answer": "Ohana"
+  },
+  {
+    "id": "dis-31",
+    "question": "Which princess kisses a frog prince?",
+    "choices": [
+      "Tiana",
+      "Aurora",
+      "Snow White",
+      "Ariel"
+    ],
+    "answer": "Tiana"
+  },
+  {
+    "id": "dis-32",
+    "question": "In Finding Nemo, what is the name of Nemo's father?",
+    "choices": [
+      "Marlin",
+      "Bruce",
+      "Crush",
+      "Gill"
+    ],
+    "answer": "Marlin"
+  },
+  {
+    "id": "dis-33",
+    "question": "Who founded the Walt Disney Company with Walt?",
+    "choices": [
+      "Roy Disney",
+      "Ub Iwerks only",
+      "Mickey Mouse",
+      "Steve Jobs"
+    ],
+    "answer": "Roy Disney"
+  },
+  {
+    "id": "dis-34",
+    "question": "What is the name of the ice harvester who helps Anna in Frozen?",
+    "choices": [
+      "Kristoff",
+      "Hans",
+      "Olaf",
+      "Sven"
+    ],
+    "answer": "Kristoff"
+  },
+  {
+    "id": "dis-35",
+    "question": "Which movie features a genie voiced famously by Robin Williams?",
+    "choices": [
+      "Aladdin",
+      "Hercules",
+      "Tarzan",
+      "The Emperor's New Groove"
+    ],
+    "answer": "Aladdin"
+  },
+  {
+    "id": "dis-36",
+    "question": "What is the name of the Scottish princess who shoots a bow?",
+    "choices": [
+      "Merida",
+      "Elsa",
+      "Moana",
+      "Mulan"
+    ],
+    "answer": "Merida"
+  },
+  {
+    "id": "dis-37",
+    "question": "Who is the cheetah-like villain in The Emperor's New Groove?",
+    "choices": [
+      "Yzma",
+      "Kronk",
+      "Pacha",
+      "Kuzco"
+    ],
+    "answer": "Yzma"
+  },
+  {
+    "id": "dis-38",
+    "question": "What is the name of the rat who cooks in Paris?",
+    "choices": [
+      "Remy",
+      "Linguini",
+      "Skinner",
+      "Emile"
+    ],
+    "answer": "Remy"
+  },
+  {
+    "id": "dis-39",
+    "question": "Which movie is set on the Greek hero Hercules?",
+    "choices": [
+      "Hercules",
+      "Atlantis",
+      "Tarzan",
+      "Encanto"
+    ],
+    "answer": "Hercules"
+  },
+  {
+    "id": "dis-40",
+    "question": "In Frozen, who is the charming prince who turns out to be the villain?",
+    "choices": [
+      "Hans",
+      "Kristoff",
+      "Olaf",
+      "Sven"
+    ],
+    "answer": "Hans"
+  },
+  {
+    "id": "dis-41",
+    "question": "What kind of animal is Goofy (despite walking upright)?",
+    "choices": [
+      "Dog",
+      "Cow",
+      "Cat",
+      "Bear"
+    ],
+    "answer": "Dog"
+  },
+  {
+    "id": "dis-42",
+    "question": "What is the name of the Incan emperor turned llama?",
+    "choices": [
+      "Kuzco",
+      "Pacha",
+      "Kronk",
+      "Miguel"
+    ],
+    "answer": "Kuzco"
+  },
+  {
+    "id": "dis-43",
+    "question": "In Encanto, which sister makes flowers bloom on command?",
+    "choices": [
+      "Isabela",
+      "Luisa",
+      "Pepa",
+      "Julieta"
+    ],
+    "answer": "Isabela"
+  },
+  {
+    "id": "dis-44",
+    "question": "Who is the only Madrigal without a gift in Encanto?",
+    "choices": [
+      "Mirabel",
+      "Bruno",
+      "Dolores",
+      "Camilo"
+    ],
+    "answer": "Mirabel"
+  },
+  {
+    "id": "dis-45",
+    "question": "What is the name of the Caribbean ride with singing pirates?",
+    "choices": [
+      "Pirates of the Caribbean",
+      "Jungle Cruise",
+      "Haunted Mansion",
+      "Space Mountain"
+    ],
+    "answer": "Pirates of the Caribbean"
+  },
+  {
+    "id": "dis-46",
+    "question": "In Snow White, how many dwarfs live in the cottage?",
+    "choices": [
+      "Seven",
+      "Five",
+      "Six",
+      "Eight"
+    ],
+    "answer": "Seven"
+  },
+  {
+    "id": "dis-47",
+    "question": "What is the name of the villain who becomes a dragon in Sleeping Beauty?",
+    "choices": [
+      "Maleficent",
+      "Ursula",
+      "Cruella",
+      "Gothel"
+    ],
+    "answer": "Maleficent"
+  },
+  {
+    "id": "dis-48",
+    "question": "Who is Goofy's son?",
+    "choices": [
+      "Max",
+      "Huey",
+      "Donald",
+      "Pluto"
+    ],
+    "answer": "Max"
+  },
+  {
+    "id": "dis-49",
+    "question": "In WALL-E, what is the name of the sleek probe robot WALL-E falls for?",
+    "choices": [
+      "EVE",
+      "AUTO",
+      "MO",
+      "HAL"
+    ],
+    "answer": "EVE"
+  },
+  {
+    "id": "dis-50",
+    "question": "In The Lion King, who is Simba's childhood friend who becomes queen?",
+    "choices": [
+      "Nala",
+      "Sarabi",
+      "Zazu",
+      "Kiara"
+    ],
+    "answer": "Nala"
+  }
 ]

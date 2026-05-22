@@ -1,52 +1,552 @@
 [
-  {"id": "soc-01", "question": "How many players does each team field on the pitch (not counting subs)?", "choices": ["9", "10", "11", "12"], "answer": "11"},
-  {"id": "soc-02", "question": "How long is a standard professional match (not counting stoppage time)?", "choices": ["80 minutes", "90 minutes", "100 minutes", "120 minutes"], "answer": "90 minutes"},
-  {"id": "soc-03", "question": "What is the only country to win the men's FIFA World Cup five times?", "choices": ["Germany", "Italy", "Brazil", "Argentina"], "answer": "Brazil"},
-  {"id": "soc-04", "question": "Which country hosted the 2022 men's FIFA World Cup?", "choices": ["Russia", "Qatar", "South Africa", "Japan"], "answer": "Qatar"},
-  {"id": "soc-05", "question": "What do you call a goal scored directly from a corner kick?", "choices": ["Hat-trick", "Olympic goal", "Panenka", "Nutmeg"], "answer": "Olympic goal"},
-  {"id": "soc-06", "question": "Which position is allowed to use their hands inside the penalty area?", "choices": ["Striker", "Goalkeeper", "Center back", "Winger"], "answer": "Goalkeeper"},
-  {"id": "soc-07", "question": "What is it called when a player scores three goals in one game?", "choices": ["Brace", "Hat-trick", "Clean sheet", "Volley"], "answer": "Hat-trick"},
-  {"id": "soc-08", "question": "Which trophy is awarded to the winner of the UEFA Champions League?", "choices": ["World Cup", "European Championship", "Champions League trophy", "FA Cup"], "answer": "Champions League trophy"},
-  {"id": "soc-09", "question": "In which country did modern association football rules largely develop?", "choices": ["Brazil", "England", "Spain", "Italy"], "answer": "England"},
-  {"id": "soc-10", "question": "What color card means a player is sent off?", "choices": ["Yellow", "Blue", "Red", "Green"], "answer": "Red"},
-  {"id": "soc-11", "question": "Which U.S. women's national team star is famous for her 2015 World Cup goal celebration?", "choices": ["Alex Morgan", "Abby Wambach", "Megan Rapinoe", "Carli Lloyd"], "answer": "Megan Rapinoe"},
-  {"id": "soc-12", "question": "What is a common nickname for the U.S. men's national team?", "choices": ["The Stars", "The Yanks", "The Three Lions", "La Roja"], "answer": "The Yanks"},
-  {"id": "soc-13", "question": "Which club does Lionel Messi play for as of his 2023 move to MLS?", "choices": ["LA Galaxy", "Inter Miami", "NYC FC", "Atlanta United"], "answer": "Inter Miami"},
-  {"id": "soc-14", "question": "Who is often called 'CR7'?", "choices": ["Neymar", "Cristiano Ronaldo", "Kylian Mbappé", "Erling Haaland"], "answer": "Cristiano Ronaldo"},
-  {"id": "soc-15", "question": "What is the offside rule mainly designed to prevent?", "choices": ["Goal hanging", "Handballs", "Dangerous tackles", "Time wasting"], "answer": "Goal hanging"},
-  {"id": "soc-16", "question": "Which country won the 2018 men's FIFA World Cup?", "choices": ["Germany", "France", "Croatia", "Brazil"], "answer": "France"},
-  {"id": "soc-17", "question": "What is a 'clean sheet' for a team?", "choices": ["Winning without scoring", "Not conceding any goals", "A white uniform", "A draw 0-0 only"], "answer": "Not conceding any goals"},
-  {"id": "soc-18", "question": "How many teams are in the group stage of the men's World Cup (2022 format)?", "choices": ["24", "32", "48", "16"], "answer": "32"},
-  {"id": "soc-19", "question": "Which English club plays at Old Trafford?", "choices": ["Liverpool", "Manchester United", "Arsenal", "Chelsea"], "answer": "Manchester United"},
-  {"id": "soc-20", "question": "What is the maximum number of substitutions allowed in most FIFA competitions (current era)?", "choices": ["3", "5", "7", "Unlimited"], "answer": "5"},
-  {"id": "soc-21", "question": "Which country won the first women's FIFA World Cup in 1991?", "choices": ["Norway", "United States", "Germany", "Sweden"], "answer": "United States"},
-  {"id": "soc-22", "question": "What shape is the center mark at kickoff?", "choices": ["Square", "Circle", "Triangle", "Star"], "answer": "Circle"},
-  {"id": "soc-23", "question": "Which Spanish club is known as 'Los Blancos'?", "choices": ["Barcelona", "Real Madrid", "Atlético Madrid", "Sevilla"], "answer": "Real Madrid"},
-  {"id": "soc-24", "question": "What does MLS stand for in the United States?", "choices": ["Major League Soccer", "Metropolitan League Series", "Midwest League Soccer", "National League Soccer"], "answer": "Major League Soccer"},
-  {"id": "soc-25", "question": "Which part of the body cannot legally score a goal (except the goalkeeper)?", "choices": ["Head", "Hand or arm", "Knee", "Shoulder"], "answer": "Hand or arm"},
-  {"id": "soc-26", "question": "Who won the 2023 FIFA Women's World Cup?", "choices": ["United States", "Spain", "England", "Germany"], "answer": "Spain"},
-  {"id": "soc-27", "question": "What is a penalty kick taken from?", "choices": ["The corner arc", "The penalty spot", "The halfway line", "The goal line"], "answer": "The penalty spot"},
-  {"id": "soc-28", "question": "Which Italian club is famous for black and white stripes?", "choices": ["AC Milan", "Juventus", "Roma", "Napoli"], "answer": "Juventus"},
-  {"id": "soc-29", "question": "What is the nickname of Brazil's national team?", "choices": ["La Roja", "Seleção", "Three Lions", "Oranje"], "answer": "Seleção"},
-  {"id": "soc-30", "question": "Which German club is based in Munich and wears red?", "choices": ["Borussia Dortmund", "Bayern Munich", "RB Leipzig", "Bayer Leverkusen"], "answer": "Bayern Munich"},
-  {"id": "soc-31", "question": "What is it called when the ball goes out over the sideline?", "choices": ["Goal kick", "Corner kick", "Throw-in", "Drop ball"], "answer": "Throw-in"},
-  {"id": "soc-32", "question": "Which country has won the most women's World Cups?", "choices": ["Germany", "United States", "Japan", "Norway"], "answer": "United States"},
-  {"id": "soc-33", "question": "Who is the all-time top scorer for the US women's national team?", "choices": ["Megan Rapinoe", "Alex Morgan", "Abby Wambach", "Carli Lloyd"], "answer": "Abby Wambach"},
-  {"id": "soc-34", "question": "What is the area in front of the goal called where goal kicks are taken?", "choices": ["Penalty area", "Six-yard box / goal area", "Center circle", "Technical area"], "answer": "Six-yard box / goal area"},
-  {"id": "soc-35", "question": "Which tournament is played every four years in Europe for national teams?", "choices": ["Copa América", "UEFA European Championship", "CONCACAF Gold Cup", "AFC Asian Cup"], "answer": "UEFA European Championship"},
-  {"id": "soc-36", "question": "What footwear is required on the pitch?", "choices": ["Cleats / boots with studs or blades", "Running shoes only", "Sandals allowed", "Bare feet only"], "answer": "Cleats / boots with studs or blades"},
-  {"id": "soc-37", "question": "Which Argentine star won the 2022 World Cup?", "choices": ["Lionel Messi", "Diego Maradona", "Sergio Agüero", "Ángel Di María only"], "answer": "Lionel Messi"},
-  {"id": "soc-38", "question": "What is a 'nutmeg' in soccer slang?", "choices": ["A spicy celebration", "Dribbling through an opponent's legs", "A header goal", "A long throw"], "answer": "Dribbling through an opponent's legs"},
-  {"id": "soc-39", "question": "Which city is home to both AC Milan and Inter Milan?", "choices": ["Rome", "Milan", "Turin", "Naples"], "answer": "Milan"},
-  {"id": "soc-40", "question": "How wide is a regulation goal (approx.)?", "choices": ["5 yards / about 7.3 meters", "10 yards / about 9.1 meters", "12 feet", "20 meters"], "answer": "10 yards / about 9.1 meters"},
-  {"id": "soc-41", "question": "What does a yellow card warn a player about?", "choices": ["Immediate ejection", "Caution for misconduct", "Free pizza", "Extra substitution"], "answer": "Caution for misconduct"},
-  {"id": "soc-42", "question": "Which country is famous for 'tiki-taka' style under coaches like Pep Guardiola at Barcelona?", "choices": ["Spain", "Netherlands", "Portugal", "Mexico"], "answer": "Spain"},
-  {"id": "soc-43", "question": "What is the 'golden boot' award given for at the World Cup?", "choices": ["Best goalkeeper", "Top scorer", "Fair play", "Best young player"], "answer": "Top scorer"},
-  {"id": "soc-44", "question": "Which MLS team did David Beckham famously join?", "choices": ["Seattle Sounders", "LA Galaxy", "Portland Timbers", "Chicago Fire"], "answer": "LA Galaxy"},
-  {"id": "soc-45", "question": "What is added at the end of each half for injuries and delays?", "choices": ["Extra time (stoppage time)", "Sudden death", "Penalty shootout", "Silver goal"], "answer": "Extra time (stoppage time)"},
-  {"id": "soc-46", "question": "Which African nation has won the Africa Cup of Nations multiple times and is called the Super Eagles?", "choices": ["Ghana", "Nigeria", "Cameroon", "Senegal"], "answer": "Nigeria"},
-  {"id": "soc-47", "question": "What is the semi-circle on the edge of the penalty area used for?", "choices": ["Penalty arc — players stay outside on PKs", "Corner kicks", "Goal kicks", "Kickoff"], "answer": "Penalty arc — players stay outside on PKs"},
-  {"id": "soc-48", "question": "Which country beat the U.S. women in the 2011 World Cup final?", "choices": ["Japan", "Brazil", "Germany", "Sweden"], "answer": "Japan"},
-  {"id": "soc-49", "question": "What is the 'Panenka' style penalty?", "choices": ["A chip down the middle", "A powerful shot to the corner", "A header", "A backheel"], "answer": "A chip down the middle"},
-  {"id": "soc-50", "question": "In youth and many pro games, what restarts play after the ball crosses the goal line last touched by an attacker?", "choices": ["Corner kick", "Goal kick", "Throw-in", "Free kick"], "answer": "Goal kick"}
+  {
+    "id": "soc-01",
+    "question": "How many players may a team name on the bench in a standard FIFA match (subs on roster)?",
+    "choices": [
+      "5",
+      "7",
+      "9",
+      "12"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "soc-02",
+    "question": "How long is each half in extra time of a World Cup knockout match?",
+    "choices": [
+      "10 minutes",
+      "15 minutes",
+      "20 minutes",
+      "30 minutes"
+    ],
+    "answer": "15 minutes"
+  },
+  {
+    "id": "soc-03",
+    "question": "Which European country has won the men's World Cup three times?",
+    "choices": [
+      "Germany",
+      "France",
+      "England",
+      "Netherlands"
+    ],
+    "answer": "Germany"
+  },
+  {
+    "id": "soc-04",
+    "question": "Which country hosted the 2022 men's FIFA World Cup?",
+    "choices": [
+      "Russia",
+      "Qatar",
+      "South Africa",
+      "Japan"
+    ],
+    "answer": "Qatar"
+  },
+  {
+    "id": "soc-05",
+    "question": "What do you call a goal scored directly from a corner kick?",
+    "choices": [
+      "Hat-trick",
+      "Olympic goal",
+      "Panenka",
+      "Nutmeg"
+    ],
+    "answer": "Olympic goal"
+  },
+  {
+    "id": "soc-06",
+    "question": "What is the semi-circle arc at the top of the penalty area called?",
+    "choices": [
+      "Penalty arc",
+      "Center circle",
+      "Corner arc",
+      "Build-out line"
+    ],
+    "answer": "Penalty arc"
+  },
+  {
+    "id": "soc-07",
+    "question": "What do you call two goals by one player in a match?",
+    "choices": [
+      "Brace",
+      "Hat-trick",
+      "Clean sheet",
+      "Own goal"
+    ],
+    "answer": "Brace"
+  },
+  {
+    "id": "soc-08",
+    "question": "Which trophy is awarded to the winner of the UEFA Champions League?",
+    "choices": [
+      "World Cup",
+      "European Championship",
+      "Champions League trophy",
+      "FA Cup"
+    ],
+    "answer": "Champions League trophy"
+  },
+  {
+    "id": "soc-09",
+    "question": "In which country did modern association football rules largely develop?",
+    "choices": [
+      "Brazil",
+      "England",
+      "Spain",
+      "Italy"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": "soc-10",
+    "question": "How many yellow cards equal a red card (second caution)?",
+    "choices": [
+      "Two in one match",
+      "Three in one match",
+      "One always",
+      "Four in a tournament"
+    ],
+    "answer": "Two in one match"
+  },
+  {
+    "id": "soc-11",
+    "question": "Which U.S. women's national team star is famous for her 2015 World Cup goal celebration?",
+    "choices": [
+      "Alex Morgan",
+      "Abby Wambach",
+      "Megan Rapinoe",
+      "Carli Lloyd"
+    ],
+    "answer": "Megan Rapinoe"
+  },
+  {
+    "id": "soc-12",
+    "question": "What is a common nickname for the U.S. men's national team?",
+    "choices": [
+      "The Stars",
+      "The Yanks",
+      "The Three Lions",
+      "La Roja"
+    ],
+    "answer": "The Yanks"
+  },
+  {
+    "id": "soc-13",
+    "question": "Which club does Lionel Messi play for as of his 2023 move to MLS?",
+    "choices": [
+      "LA Galaxy",
+      "Inter Miami",
+      "NYC FC",
+      "Atlanta United"
+    ],
+    "answer": "Inter Miami"
+  },
+  {
+    "id": "soc-14",
+    "question": "Which country has won the most men's FIFA World Cups after Brazil?",
+    "choices": [
+      "Germany",
+      "Italy",
+      "Argentina",
+      "France"
+    ],
+    "answer": "Germany"
+  },
+  {
+    "id": "soc-15",
+    "question": "What is the offside rule mainly designed to prevent?",
+    "choices": [
+      "Goal hanging",
+      "Handballs",
+      "Dangerous tackles",
+      "Time wasting"
+    ],
+    "answer": "Goal hanging"
+  },
+  {
+    "id": "soc-16",
+    "question": "Who scored four goals in the 2022 World Cup final for France?",
+    "choices": [
+      "Kylian Mbapp\u00e9",
+      "Olivier Giroud",
+      "Antoine Griezmann",
+      "Karim Benzema"
+    ],
+    "answer": "Kylian Mbapp\u00e9"
+  },
+  {
+    "id": "soc-17",
+    "question": "What is a 'clean sheet' for a team?",
+    "choices": [
+      "Winning without scoring",
+      "Not conceding any goals",
+      "A white uniform",
+      "A draw 0-0 only"
+    ],
+    "answer": "Not conceding any goals"
+  },
+  {
+    "id": "soc-18",
+    "question": "How many teams are in the group stage of the men's World Cup (2022 format)?",
+    "choices": [
+      "24",
+      "32",
+      "48",
+      "16"
+    ],
+    "answer": "32"
+  },
+  {
+    "id": "soc-19",
+    "question": "Which club's home is Anfield?",
+    "choices": [
+      "Liverpool",
+      "Everton",
+      "Manchester United",
+      "Manchester City"
+    ],
+    "answer": "Liverpool"
+  },
+  {
+    "id": "soc-20",
+    "question": "What is the maximum number of substitutions allowed in most FIFA competitions (current era)?",
+    "choices": [
+      "3",
+      "5",
+      "7",
+      "Unlimited"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": "soc-21",
+    "question": "Which country won the first women's FIFA World Cup in 1991?",
+    "choices": [
+      "Norway",
+      "United States",
+      "Germany",
+      "Sweden"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": "soc-22",
+    "question": "What is awarded when the ball wholly crosses the goal line last touched by a defender?",
+    "choices": [
+      "Corner kick",
+      "Goal kick",
+      "Throw-in",
+      "Indirect free kick"
+    ],
+    "answer": "Corner kick"
+  },
+  {
+    "id": "soc-23",
+    "question": "Which Spanish club is known as 'Los Blancos'?",
+    "choices": [
+      "Barcelona",
+      "Real Madrid",
+      "Atl\u00e9tico Madrid",
+      "Sevilla"
+    ],
+    "answer": "Real Madrid"
+  },
+  {
+    "id": "soc-24",
+    "question": "Which MLS expansion team joined in 2020 and plays in Nashville?",
+    "choices": [
+      "Nashville SC",
+      "Austin FC",
+      "Charlotte FC",
+      "St. Louis City SC"
+    ],
+    "answer": "Nashville SC"
+  },
+  {
+    "id": "soc-25",
+    "question": "What is the 'handball' rule primarily judged by for outfield players?",
+    "choices": [
+      "Arm position and natural silhouette",
+      "Intent only",
+      "Ball speed only",
+      "Referee mood"
+    ],
+    "answer": "Arm position and natural silhouette"
+  },
+  {
+    "id": "soc-26",
+    "question": "Who won the 2023 FIFA Women's World Cup?",
+    "choices": [
+      "United States",
+      "Spain",
+      "England",
+      "Germany"
+    ],
+    "answer": "Spain"
+  },
+  {
+    "id": "soc-27",
+    "question": "From how many yards is a penalty kick taken (traditional measure)?",
+    "choices": [
+      "12 yards",
+      "10 yards",
+      "18 yards",
+      "6 yards"
+    ],
+    "answer": "12 yards"
+  },
+  {
+    "id": "soc-28",
+    "question": "Which Italian club is famous for black and white stripes?",
+    "choices": [
+      "AC Milan",
+      "Juventus",
+      "Roma",
+      "Napoli"
+    ],
+    "answer": "Juventus"
+  },
+  {
+    "id": "soc-29",
+    "question": "What is the nickname of Brazil's national team?",
+    "choices": [
+      "La Roja",
+      "Sele\u00e7\u00e3o",
+      "Three Lions",
+      "Oranje"
+    ],
+    "answer": "Sele\u00e7\u00e3o"
+  },
+  {
+    "id": "soc-30",
+    "question": "Which German club is based in Munich and wears red?",
+    "choices": [
+      "Borussia Dortmund",
+      "Bayern Munich",
+      "RB Leipzig",
+      "Bayer Leverkusen"
+    ],
+    "answer": "Bayern Munich"
+  },
+  {
+    "id": "soc-31",
+    "question": "What is it called when the ball goes out over the sideline?",
+    "choices": [
+      "Goal kick",
+      "Corner kick",
+      "Throw-in",
+      "Drop ball"
+    ],
+    "answer": "Throw-in"
+  },
+  {
+    "id": "soc-32",
+    "question": "Which country has won the most women's World Cups?",
+    "choices": [
+      "Germany",
+      "United States",
+      "Japan",
+      "Norway"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": "soc-33",
+    "question": "Who is the all-time top scorer for the US women's national team?",
+    "choices": [
+      "Megan Rapinoe",
+      "Alex Morgan",
+      "Abby Wambach",
+      "Carli Lloyd"
+    ],
+    "answer": "Abby Wambach"
+  },
+  {
+    "id": "soc-34",
+    "question": "What is the six-yard box primarily used for?",
+    "choices": [
+      "Goal kicks and goalkeeper protection",
+      "Penalty kicks",
+      "Corner kicks",
+      "Kickoffs"
+    ],
+    "answer": "Goal kicks and goalkeeper protection"
+  },
+  {
+    "id": "soc-35",
+    "question": "Which tournament is played every four years in Europe for national teams?",
+    "choices": [
+      "Copa Am\u00e9rica",
+      "UEFA European Championship",
+      "CONCACAF Gold Cup",
+      "AFC Asian Cup"
+    ],
+    "answer": "UEFA European Championship"
+  },
+  {
+    "id": "soc-36",
+    "question": "What footwear is required on the pitch?",
+    "choices": [
+      "Cleats with studs or blades",
+      "Running shoes only",
+      "Sandals allowed",
+      "Bare feet only"
+    ],
+    "answer": "Cleats with studs or blades"
+  },
+  {
+    "id": "soc-37",
+    "question": "Which Argentine star won the 2022 World Cup?",
+    "choices": [
+      "Lionel Messi",
+      "Diego Maradona",
+      "Sergio Ag\u00fcero",
+      "\u00c1ngel Di Mar\u00eda only"
+    ],
+    "answer": "Lionel Messi"
+  },
+  {
+    "id": "soc-38",
+    "question": "What is a 'nutmeg' in soccer slang?",
+    "choices": [
+      "A spicy celebration",
+      "Dribbling through an opponent's legs",
+      "A header goal",
+      "A long throw"
+    ],
+    "answer": "Dribbling through an opponent's legs"
+  },
+  {
+    "id": "soc-39",
+    "question": "Which city is home to both AC Milan and Inter Milan?",
+    "choices": [
+      "Rome",
+      "Milan",
+      "Turin",
+      "Naples"
+    ],
+    "answer": "Milan"
+  },
+  {
+    "id": "soc-40",
+    "question": "Regulation goal width in yards is closest to which?",
+    "choices": [
+      "8 yards",
+      "10 yards",
+      "12 yards",
+      "6 yards"
+    ],
+    "answer": "8 yards"
+  },
+  {
+    "id": "soc-41",
+    "question": "What does a yellow card warn a player about?",
+    "choices": [
+      "Immediate ejection",
+      "Caution for misconduct",
+      "Free pizza",
+      "Extra substitution"
+    ],
+    "answer": "Caution for misconduct"
+  },
+  {
+    "id": "soc-42",
+    "question": "Which country is famous for 'tiki-taka' style under coaches like Pep Guardiola at Barcelona?",
+    "choices": [
+      "Spain",
+      "Netherlands",
+      "Portugal",
+      "Mexico"
+    ],
+    "answer": "Spain"
+  },
+  {
+    "id": "soc-43",
+    "question": "What is the 'golden boot' award given for at the World Cup?",
+    "choices": [
+      "Best goalkeeper",
+      "Top scorer",
+      "Fair play",
+      "Best young player"
+    ],
+    "answer": "Top scorer"
+  },
+  {
+    "id": "soc-44",
+    "question": "Which MLS team did David Beckham famously join?",
+    "choices": [
+      "Seattle Sounders",
+      "LA Galaxy",
+      "Portland Timbers",
+      "Chicago Fire"
+    ],
+    "answer": "LA Galaxy"
+  },
+  {
+    "id": "soc-45",
+    "question": "What is added at the end of each half for injuries and delays?",
+    "choices": [
+      "Extra time (stoppage time)",
+      "Sudden death",
+      "Penalty shootout",
+      "Silver goal"
+    ],
+    "answer": "Extra time (stoppage time)"
+  },
+  {
+    "id": "soc-46",
+    "question": "Which African nation has won the Africa Cup of Nations multiple times and is called the Super Eagles?",
+    "choices": [
+      "Ghana",
+      "Nigeria",
+      "Cameroon",
+      "Senegal"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "id": "soc-47",
+    "question": "What is the semi-circle on the edge of the penalty area used for?",
+    "choices": [
+      "Penalty arc \u2014 players stay outside on PKs",
+      "Corner kicks",
+      "Goal kicks",
+      "Kickoff"
+    ],
+    "answer": "Penalty arc \u2014 players stay outside on PKs"
+  },
+  {
+    "id": "soc-48",
+    "question": "Which country beat the U.S. women in the 2011 World Cup final?",
+    "choices": [
+      "Japan",
+      "Brazil",
+      "Germany",
+      "Sweden"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": "soc-49",
+    "question": "What is the 'Panenka' style penalty?",
+    "choices": [
+      "A chip down the middle",
+      "A powerful shot to the corner",
+      "A header",
+      "A backheel"
+    ],
+    "answer": "A chip down the middle"
+  },
+  {
+    "id": "soc-50",
+    "question": "In youth and many pro games, what restarts play after the ball crosses the goal line last touched by an attacker?",
+    "choices": [
+      "Corner kick",
+      "Goal kick",
+      "Throw-in",
+      "Free kick"
+    ],
+    "answer": "Goal kick"
+  }
 ]
