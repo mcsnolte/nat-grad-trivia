@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+    />
+    <meta
+      name="description"
+      content="Grad party trivia for Hammerschlagen — Natalie's celebration!"
+    />
+    <title>Nat Grad Trivia</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <section id="intro" class="screen screen--active">
+      <div class="screen-inner">
+        <p class="eyebrow">Hammerschlagen Helper</p>
+        <h1>Nat Grad Trivia</h1>
+        <p class="lead">
+          Welcome to <strong>Natalie's</strong> graduation party! Pair trivia
+          with Hammerschlagen: the host reads a question, the group shouts
+          answers, and whoever gets it right earns a swing.
+        </p>
+        <ul class="rules">
+          <li>One person runs this app for the whole group.</li>
+          <li>No scores tracked here — just fun questions.</li>
+          <li>Pick a topic, reveal choices if needed, then show the answer.</li>
+        </ul>
+        <button type="button" id="btnStart" class="btn btn--primary">
+          Let's Play
+        </button>
+      </div>
+    </section>
+
+    <section id="topics" class="screen">
+      <div class="screen-inner">
+        <h2>Choose a topic</h2>
+        <p class="subtitle">Tap a category — play til you win!</p>
+        <div id="topicGrid" class="topic-grid"></div>
+        <button type="button" id="btnBackIntro" class="btn btn--ghost">
+          Back
+        </button>
+      </div>
+    </section>
+
+    <section id="quiz" class="screen">
+      <div class="screen-inner screen-inner--quiz">
+        <div class="quiz-header">
+          <span id="topicBadge" class="topic-badge"></span>
+          <button type="button" id="btnChangeTopic" class="btn-link">
+            Change topic
+          </button>
+        </div>
+
+        <div class="question-card">
+          <p id="questionText" class="question-text"></p>
+
+          <div id="choicesBlock" class="choices-block hidden">
+            <ul id="choicesList" class="choices-list"></ul>
+          </div>
+
+          <div id="answerBlock" class="answer-block hidden">
+            <p class="answer-label">Answer</p>
+            <p id="answerText" class="answer-text"></p>
+          </div>
+        </div>
+
+        <div class="action-stack">
+          <button type="button" id="btnShowChoices" class="btn btn--secondary">
+            Too hard? Show choices
+          </button>
+          <button type="button" id="btnShowAnswer" class="btn btn--secondary">
+            Show answer
+          </button>
+          <button type="button" id="btnNext" class="btn btn--primary hidden">
+            Next question
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <section id="error" class="screen">
+      <div class="screen-inner">
+        <h2>Could not load trivia</h2>
+        <p id="errorMessage" class="subtitle"></p>
+        <p class="subtitle">
+          Serve this folder over HTTP, e.g.
+          <code>python3 -m http.server</code>
+        </p>
+      </div>
+    </section>
+
+    <script src="app.js"></script>
+  </body>
+</html>

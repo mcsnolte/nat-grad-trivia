@@ -1,0 +1,38 @@
+[
+  {
+    "id": "harry-potter",
+    "label": "Harry Potter",
+    "emoji": "⚡",
+    "file": "questions/harry-potter.json"
+  },
+  {
+    "id": "soccer",
+    "label": "Soccer",
+    "emoji": "⚽",
+    "file": "questions/soccer.json"
+  },
+  {
+    "id": "germany",
+    "label": "Germany",
+    "emoji": "🇩🇪",
+    "file": "questions/germany.json"
+  },
+  {
+    "id": "bluey",
+    "label": "Bluey",
+    "emoji": "🐾",
+    "file": "questions/bluey.json"
+  },
+  {
+    "id": "disney",
+    "label": "Disney",
+    "emoji": "🏰",
+    "file": "questions/disney.json"
+  },
+  {
+    "id": "basketball",
+    "label": "Basketball",
+    "emoji": "🏀",
+    "file": "questions/basketball.json"
+  }
+]
