@@ -45,47 +45,47 @@
   },
   {
     "id": "bb-05",
-    "question": "What is the name of the professional women's league in the U.S.?",
+    "question": "How many WNBA teams are there in the current 12-team era?",
     "choices": [
-      "WNBA",
-      "NWSL",
-      "PWHL",
-      "LPGA"
+      "12",
+      "10",
+      "14",
+      "8"
     ],
-    "answer": "WNBA"
+    "answer": "12"
   },
   {
     "id": "bb-06",
-    "question": "How long is each quarter in a standard NBA game?",
+    "question": "How long is the shot clock in women's college basketball (NCAA)?",
     "choices": [
-      "10 minutes",
-      "12 minutes",
-      "15 minutes",
-      "20 minutes"
+      "30 seconds",
+      "24 seconds",
+      "35 seconds",
+      "20 seconds"
     ],
-    "answer": "12 minutes"
+    "answer": "30 seconds"
   },
   {
     "id": "bb-07",
-    "question": "Who is nicknamed 'His Airness' and wore number 23 for the Bulls?",
+    "question": "Which player famously scored 100 points in a single NBA game in 1962?",
     "choices": [
-      "LeBron James",
+      "Wilt Chamberlain",
       "Michael Jordan",
       "Kobe Bryant",
-      "Magic Johnson"
+      "LeBron James"
     ],
-    "answer": "Michael Jordan"
+    "answer": "Wilt Chamberlain"
   },
   {
     "id": "bb-08",
-    "question": "What violation is called when you move your feet without dribbling?",
+    "question": "What is a 'pick and roll'?",
     "choices": [
-      "Traveling",
-      "Goaltending",
-      "Charge",
-      "Flagrant foul"
+      "A screen followed by a cut toward the basket",
+      "A double dribble violation",
+      "A type of zone defense",
+      "A halftime ceremony"
     ],
-    "answer": "Traveling"
+    "answer": "A screen followed by a cut toward the basket"
   },
   {
     "id": "bb-09",
@@ -111,14 +111,14 @@
   },
   {
     "id": "bb-11",
-    "question": "Which NBA team is based in Los Angeles and wears purple and gold?",
+    "question": "Which NBA team plays at the Chase Center?",
     "choices": [
-      "Lakers",
-      "Clippers only",
-      "Warriors",
-      "Kings"
+      "Golden State Warriors",
+      "Los Angeles Lakers",
+      "Sacramento Kings",
+      "Phoenix Suns"
     ],
-    "answer": "Lakers"
+    "answer": "Golden State Warriors"
   },
   {
     "id": "bb-12",
@@ -144,14 +144,14 @@
   },
   {
     "id": "bb-14",
-    "question": "What is the shot clock limit in the NBA (seconds)?",
+    "question": "What is the restricted area under the basket marked for?",
     "choices": [
-      "14",
-      "24",
-      "30",
-      "35"
+      "Limiting charging fouls on help defenders",
+      "Three-point line extension",
+      "Free-throw lane only",
+      "Coaches' box"
     ],
-    "answer": "24"
+    "answer": "Limiting charging fouls on help defenders"
   },
   {
     "id": "bb-15",
@@ -188,36 +188,36 @@
   },
   {
     "id": "bb-18",
-    "question": "What is the NCAA men's championship tournament called?",
+    "question": "What is the 'Elam Ending' used in?",
     "choices": [
-      "March Madness",
-      "The Finals",
-      "World Series",
-      "Super Bowl"
+      "The Basketball Tournament (target score finish)",
+      "NBA Finals only",
+      "Olympic basketball only",
+      "High school tip-offs"
     ],
-    "answer": "March Madness"
+    "answer": "The Basketball Tournament (target score finish)"
   },
   {
     "id": "bb-19",
-    "question": "How high is a regulation basketball rim from the floor?",
+    "question": "What is the width of a regulation NBA court (approx.)?",
     "choices": [
-      "8 feet",
-      "10 feet",
-      "12 feet",
-      "9 feet"
+      "50 feet",
+      "60 feet",
+      "94 feet",
+      "84 feet"
     ],
-    "answer": "10 feet"
+    "answer": "50 feet"
   },
   {
     "id": "bb-20",
-    "question": "Which team plays at Madison Square Garden in New York?",
+    "question": "Which team plays at TD Garden in Boston?",
     "choices": [
+      "Celtics",
       "Knicks",
       "Nets",
-      "76ers",
-      "Celtics"
+      "76ers"
     ],
-    "answer": "Knicks"
+    "answer": "Celtics"
   },
   {
     "id": "bb-21",
@@ -232,25 +232,25 @@
   },
   {
     "id": "bb-22",
-    "question": "Who is the all-time leading scorer in NBA history (as of passing Kareem)?",
+    "question": "Who holds the record for most career assists in NBA history?",
     "choices": [
-      "LeBron James",
-      "Michael Jordan",
-      "Kobe Bryant",
-      "Shaquille O'Neal"
+      "John Stockton",
+      "Magic Johnson",
+      "Chris Paul",
+      "Jason Kidd"
     ],
-    "answer": "LeBron James"
+    "answer": "John Stockton"
   },
   {
     "id": "bb-23",
-    "question": "Which city are the Boston Celtics based in?",
+    "question": "Which city do the Toronto Raptors represent?",
     "choices": [
-      "Boston",
-      "Los Angeles",
-      "Chicago",
-      "Miami"
+      "Toronto",
+      "Montreal",
+      "Vancouver",
+      "Ottawa"
     ],
-    "answer": "Boston"
+    "answer": "Toronto"
   },
   {
     "id": "bb-24",
@@ -331,14 +331,14 @@
   },
   {
     "id": "bb-31",
-    "question": "Which player was known as 'Black Mamba'?",
+    "question": "Which center was nicknamed 'The Dream' and played for Houston?",
     "choices": [
-      "Kobe Bryant",
+      "Hakeem Olajuwon",
       "Shaquille O'Neal",
-      "Allen Iverson",
-      "Tim Duncan"
+      "David Robinson",
+      "Patrick Ewing"
     ],
-    "answer": "Kobe Bryant"
+    "answer": "Hakeem Olajuwon"
   },
   {
     "id": "bb-32",
@@ -529,14 +529,14 @@
   },
   {
     "id": "bb-49",
-    "question": "Who is known as 'The King' in basketball?",
+    "question": "What is a 'and-one' in basketball slang?",
     "choices": [
-      "LeBron James",
-      "Stephen Curry",
-      "Kevin Durant",
-      "Ja Morant"
+      "Making a basket while being fouled, plus a free throw",
+      "Winning by one point",
+      "A one-handed dunk only",
+      "A technical foul"
     ],
-    "answer": "LeBron James"
+    "answer": "Making a basket while being fouled, plus a free throw"
   },
   {
     "id": "bb-50",

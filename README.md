@@ -2,7 +2,7 @@
 
 A simple, mobile-friendly trivia app for **Natalie's graduation party** — pair it with Hammerschlagen. One host runs the app; the group shouts answers; correct answers earn a swing. No scores or player tracking.
 
-**Topics:** Harry Potter, Soccer, Germany, Bluey, Disney, Basketball — **50 questions each** (300 total).
+**Topics:** Harry Potter, Soccer, Germany, Bluey, Disney, Basketball, World Geography — **50 questions each** (350 total).
 
 ## Run locally
 
@@ -42,6 +42,7 @@ questions/
   bluey.json
   disney.json
   basketball.json
+  world-geography.json
 ```
 
 ## How to play

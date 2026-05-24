@@ -12,25 +12,25 @@
   },
   {
     "id": "de-02",
-    "question": "What colors are on the German flag (top to bottom)?",
+    "question": "Which German state is the largest by land area?",
     "choices": [
-      "Red, white, blue",
-      "Black, red, gold",
-      "Green, white, orange",
-      "Blue, yellow, red"
+      "Bavaria",
+      "North Rhine-Westphalia",
+      "Baden-W\u00fcrttemberg",
+      "Lower Saxony"
     ],
-    "answer": "Black, red, gold"
+    "answer": "Bavaria"
   },
   {
     "id": "de-03",
-    "question": "What does 'Entschuldigung' mean in English?",
+    "question": "What does 'Schadenfreude' mean?",
     "choices": [
-      "Excuse me",
-      "Thank you",
-      "Goodbye",
-      "Please"
+      "Joy at someone else's misfortune",
+      "Fear of heights",
+      "Love of sausage",
+      "Homesickness"
     ],
-    "answer": "Excuse me"
+    "answer": "Joy at someone else's misfortune"
   },
   {
     "id": "de-04",
@@ -78,25 +78,25 @@
   },
   {
     "id": "de-08",
-    "question": "Which German city is famous for Oktoberfest?",
+    "question": "Which river flows through Dresden and Hamburg?",
     "choices": [
-      "Munich",
-      "Berlin",
-      "Stuttgart",
-      "Dresden"
+      "Elbe",
+      "Rhine",
+      "Danube",
+      "Main"
     ],
-    "answer": "Munich"
+    "answer": "Elbe"
   },
   {
     "id": "de-09",
-    "question": "What does 'Bitte' often mean when offered something?",
+    "question": "What are you asking with 'Sprechen Sie Englisch?'",
     "choices": [
-      "Please",
-      "Thank you",
-      "No",
-      "Goodbye"
+      "Do you speak English?",
+      "Where is the train?",
+      "How much does it cost?",
+      "What time is it?"
     ],
-    "answer": "Please"
+    "answer": "Do you speak English?"
   },
   {
     "id": "de-10",
@@ -133,25 +133,25 @@
   },
   {
     "id": "de-13",
-    "question": "What does 'Auf Wiedersehen' mean?",
+    "question": "What does 'Ich habe Hunger' mean?",
     "choices": [
-      "Goodbye",
-      "Good morning",
-      "Cheers",
-      "Help"
+      "I am hungry",
+      "I am tired",
+      "I am lost",
+      "I am cold"
     ],
-    "answer": "Goodbye"
+    "answer": "I am hungry"
   },
   {
     "id": "de-14",
-    "question": "Which wall fell in 1989, symbolizing German reunification?",
+    "question": "What was the capital of West Germany before reunification?",
     "choices": [
-      "Berlin Wall",
-      "Great Wall",
-      "Hadrian's Wall",
-      "Iron Curtain fence only"
+      "Bonn",
+      "Berlin",
+      "Frankfurt",
+      "Hamburg"
     ],
-    "answer": "Berlin Wall"
+    "answer": "Bonn"
   },
   {
     "id": "de-15",
@@ -188,14 +188,14 @@
   },
   {
     "id": "de-18",
-    "question": "Who composed 'Ode to Joy', part of Beethoven's Ninth Symphony?",
+    "question": "Which German composer wrote the opera cycle 'The Ring of the Nibelung'?",
     "choices": [
-      "Mozart",
-      "Beethoven",
-      "Bach",
-      "Wagner"
+      "Richard Wagner",
+      "Johann Sebastian Bach",
+      "Franz Schubert",
+      "Gustav Mahler"
     ],
-    "answer": "Beethoven"
+    "answer": "Richard Wagner"
   },
   {
     "id": "de-19",
@@ -265,14 +265,14 @@
   },
   {
     "id": "de-25",
-    "question": "What does 'Prost' mean when toasting?",
+    "question": "What is a traditional German Christmas market called?",
     "choices": [
-      "Cheers",
-      "Sorry",
-      "Hungry",
-      "Sleep well"
+      "Weihnachtsmarkt",
+      "Oktoberfest",
+      "Karneval",
+      "Kirmes"
     ],
-    "answer": "Cheers"
+    "answer": "Weihnachtsmarkt"
   },
   {
     "id": "de-26",
@@ -287,14 +287,14 @@
   },
   {
     "id": "de-27",
-    "question": "Kindergarten literally translates to what in English?",
+    "question": "Which German inventor is credited with movable-type printing in Europe?",
     "choices": [
-      "Children's garden",
-      "School house",
-      "Play room",
-      "Baby class"
+      "Johannes Gutenberg",
+      "Albert Einstein",
+      "Karl Benz",
+      "Robert Koch"
     ],
-    "answer": "Children's garden"
+    "answer": "Johannes Gutenberg"
   },
   {
     "id": "de-28",
@@ -353,14 +353,14 @@
   },
   {
     "id": "de-33",
-    "question": "What does 'Guten Morgen' mean?",
+    "question": "What does 'Wo ist der Bahnhof?' mean?",
     "choices": [
-      "Good morning",
-      "Good night",
-      "Good appetite",
-      "Good luck"
+      "Where is the train station?",
+      "Where is the bathroom?",
+      "How much is the ticket?",
+      "When does it leave?"
     ],
-    "answer": "Good morning"
+    "answer": "Where is the train station?"
   },
   {
     "id": "de-34",
@@ -430,14 +430,14 @@
   },
   {
     "id": "de-40",
-    "question": "Who was Germany's first female chancellor?",
+    "question": "Which German chancellor oversaw reunification in 1990?",
     "choices": [
-      "Angela Merkel",
-      "Willy Brandt",
       "Helmut Kohl",
-      "Gerhard Schr\u00f6der"
+      "Willy Brandt",
+      "Gerhard Schr\u00f6der",
+      "Angela Merkel"
     ],
-    "answer": "Angela Merkel"
+    "answer": "Helmut Kohl"
   },
   {
     "id": "de-41",
@@ -463,14 +463,14 @@
   },
   {
     "id": "de-43",
-    "question": "What does 'Willkommen' mean?",
+    "question": "What is the German word for 'library'?",
     "choices": [
-      "Welcome",
-      "Congratulations",
-      "Good luck",
-      "Goodbye"
+      "Bibliothek",
+      "Buchhandlung",
+      "Schule",
+      "Museum"
     ],
-    "answer": "Welcome"
+    "answer": "Bibliothek"
   },
   {
     "id": "de-44",
@@ -496,14 +496,14 @@
   },
   {
     "id": "de-46",
-    "question": "Which famous German physicist developed the theory of relativity?",
+    "question": "Which German carmaker produces the 911 sports car?",
     "choices": [
-      "Einstein",
-      "Newton",
-      "Galileo",
-      "Tesla"
+      "Porsche",
+      "Volkswagen",
+      "Opel",
+      "Audi only"
     ],
-    "answer": "Einstein"
+    "answer": "Porsche"
   },
   {
     "id": "de-47",
@@ -518,14 +518,14 @@
   },
   {
     "id": "de-48",
-    "question": "Which city is known for the Brandenburg Gate?",
+    "question": "Which city is the capital of the state of North Rhine-Westphalia?",
     "choices": [
-      "Berlin",
+      "D\u00fcsseldorf",
+      "Cologne",
       "Bonn",
-      "Potsdam only",
-      "Leipzig"
+      "Dortmund"
     ],
-    "answer": "Berlin"
+    "answer": "D\u00fcsseldorf"
   },
   {
     "id": "de-49",

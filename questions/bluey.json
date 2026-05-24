@@ -23,25 +23,25 @@
   },
   {
     "id": "bl-03",
-    "question": "What is the surname of Bluey's family?",
+    "question": "What is the name of Bluey's school teacher?",
     "choices": [
-      "Heeler",
-      "Smith",
-      "Brown",
-      "Jones"
+      "Calypso",
+      "Chilli",
+      "Frisky",
+      "Indy"
     ],
-    "answer": "Heeler"
+    "answer": "Calypso"
   },
   {
     "id": "bl-04",
-    "question": "What city in Australia is Bluey set in?",
+    "question": "What Australian state is Brisbane in?",
     "choices": [
-      "Sydney",
-      "Brisbane",
-      "Melbourne",
-      "Perth"
+      "Queensland",
+      "New South Wales",
+      "Victoria",
+      "Tasmania"
     ],
-    "answer": "Brisbane"
+    "answer": "Queensland"
   },
   {
     "id": "bl-05",
@@ -78,14 +78,14 @@
   },
   {
     "id": "bl-08",
-    "question": "What game involves keeping a balloon from touching the ground?",
+    "question": "In 'Dance Mode,' what do the kids want one play of on the car stereo?",
     "choices": [
-      "Keepy Uppy",
-      "Shadowlands",
-      "Hospital",
-      "Grannies"
+      "A favorite song",
+      "A podcast",
+      "The news",
+      "A audiobook"
     ],
-    "answer": "Keepy Uppy"
+    "answer": "A favorite song"
   },
   {
     "id": "bl-09",
@@ -111,14 +111,14 @@
   },
   {
     "id": "bl-11",
-    "question": "What Australian state is Brisbane in, where Bluey is set?",
+    "question": "What is the name of the camping friend Bluey meets who speaks French?",
     "choices": [
-      "Queensland",
-      "New South Wales",
-      "Victoria",
-      "Tasmania"
+      "Jean-Luc",
+      "Rusty",
+      "Mackenzie",
+      "Snickers"
     ],
-    "answer": "Queensland"
+    "answer": "Jean-Luc"
   },
   {
     "id": "bl-12",
@@ -155,14 +155,14 @@
   },
   {
     "id": "bl-15",
-    "question": "Which Heeler sibling is younger?",
+    "question": "What is the name of Stripe and Trixie's daughter?",
     "choices": [
-      "Bingo",
-      "Bluey",
       "Muffin",
-      "Sock"
+      "Bingo",
+      "Honey",
+      "Indy"
     ],
-    "answer": "Bingo"
+    "answer": "Muffin"
   },
   {
     "id": "bl-16",
@@ -177,14 +177,14 @@
   },
   {
     "id": "bl-17",
-    "question": "What is the famous sleepy episode with dream sequences?",
+    "question": "Which episode shows Bluey learning to ride a bike without training wheels?",
     "choices": [
-      "Sleepytime",
       "Bike",
-      "Asparagus",
-      "Takeaway"
+      "Sleepytime",
+      "Baby Race",
+      "The Pool"
     ],
-    "answer": "Sleepytime"
+    "answer": "Bike"
   },
   {
     "id": "bl-18",
@@ -210,36 +210,36 @@
   },
   {
     "id": "bl-20",
-    "question": "What does Bandit often say when a game gets chaotic?",
+    "question": "What is Bandit's profession (as often shown or referenced)?",
     "choices": [
-      "Oh, biscuits!",
-      "Fair dinkum",
-      "Crikey",
-      "G'day"
+      "Archaeologist",
+      "Teacher",
+      "Chef",
+      "Doctor"
     ],
-    "answer": "Oh, biscuits!"
+    "answer": "Archaeologist"
   },
   {
     "id": "bl-21",
-    "question": "What game do Bluey and Bingo play pretending to be old ladies?",
+    "question": "In 'Hammerbarn,' what real-world store chain is it parodying?",
     "choices": [
-      "Grannies",
-      "Hotel",
-      "Work",
-      "Dance Mode"
+      "Bunnings",
+      "IKEA",
+      "Target",
+      "Costco"
     ],
-    "answer": "Grannies"
+    "answer": "Bunnings"
   },
   {
     "id": "bl-22",
-    "question": "What is the name of the Heelers' next-door neighbor boy?",
+    "question": "What breed of dog is Mackenzie?",
     "choices": [
-      "Lucky",
-      "Rusty",
-      "Mackenzie",
-      "Jack"
+      "Border Collie",
+      "Labrador",
+      "Heeler",
+      "Dachshund"
     ],
-    "answer": "Lucky"
+    "answer": "Border Collie"
   },
   {
     "id": "bl-23",
@@ -507,14 +507,14 @@
   },
   {
     "id": "bl-47",
-    "question": "Roughly how long is each standard Bluey episode?",
+    "question": "What is the name of the Heelers' uncle who visits from the bush?",
     "choices": [
-      "7 minutes",
-      "22 minutes",
-      "45 minutes",
-      "15 minutes"
+      "Rad",
+      "Stripe",
+      "Bob",
+      "Pat"
     ],
-    "answer": "7 minutes"
+    "answer": "Rad"
   },
   {
     "id": "bl-48",
@@ -540,13 +540,13 @@
   },
   {
     "id": "bl-50",
-    "question": "What phrase does the Heeler family often use when something goes wrong?",
+    "question": "Which friend is a Chow Chow who can be competitive with Bluey?",
     "choices": [
-      "Oh, biscuits!",
-      "Crikey!",
-      "G'day mate only",
-      "No worries only"
+      "Judo",
+      "Honey",
+      "Coco",
+      "Indy"
     ],
-    "answer": "Oh, biscuits!"
+    "answer": "Judo"
   }
 ]

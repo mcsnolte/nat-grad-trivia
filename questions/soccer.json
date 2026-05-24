@@ -34,14 +34,14 @@
   },
   {
     "id": "soc-04",
-    "question": "Which country hosted the 2022 men's FIFA World Cup?",
+    "question": "Which country won the inaugural men's FIFA World Cup in 1930?",
     "choices": [
-      "Russia",
-      "Qatar",
-      "South Africa",
-      "Japan"
+      "Uruguay",
+      "Brazil",
+      "Italy",
+      "Argentina"
     ],
-    "answer": "Qatar"
+    "answer": "Uruguay"
   },
   {
     "id": "soc-05",
@@ -78,36 +78,36 @@
   },
   {
     "id": "soc-08",
-    "question": "Which trophy is awarded to the winner of the UEFA Champions League?",
+    "question": "Which club has won the most UEFA Champions League / European Cup titles?",
     "choices": [
-      "World Cup",
-      "European Championship",
-      "Champions League trophy",
-      "FA Cup"
+      "Real Madrid",
+      "AC Milan",
+      "Liverpool",
+      "Bayern Munich"
     ],
-    "answer": "Champions League trophy"
+    "answer": "Real Madrid"
   },
   {
     "id": "soc-09",
-    "question": "In which country did modern association football rules largely develop?",
+    "question": "What is the minimum number of players a team must have on the field to continue a match?",
     "choices": [
-      "Brazil",
-      "England",
-      "Spain",
-      "Italy"
+      "7",
+      "8",
+      "9",
+      "10"
     ],
-    "answer": "England"
+    "answer": "7"
   },
   {
     "id": "soc-10",
-    "question": "How many yellow cards equal a red card (second caution)?",
+    "question": "About how many seconds may a goalkeeper hold the ball before releasing it?",
     "choices": [
-      "Two in one match",
-      "Three in one match",
-      "One always",
-      "Four in a tournament"
+      "6 seconds",
+      "10 seconds",
+      "15 seconds",
+      "30 seconds"
     ],
-    "answer": "Two in one match"
+    "answer": "6 seconds"
   },
   {
     "id": "soc-11",
@@ -177,14 +177,14 @@
   },
   {
     "id": "soc-17",
-    "question": "What is a 'clean sheet' for a team?",
+    "question": "What is a 'rabona' in soccer?",
     "choices": [
-      "Winning without scoring",
-      "Not conceding any goals",
-      "A white uniform",
-      "A draw 0-0 only"
+      "Kicking the ball by wrapping one leg behind the other",
+      "A header from the corner flag",
+      "A two-footed tackle",
+      "A goalkeeper punt"
     ],
-    "answer": "Not conceding any goals"
+    "answer": "Kicking the ball by wrapping one leg behind the other"
   },
   {
     "id": "soc-18",
@@ -199,14 +199,14 @@
   },
   {
     "id": "soc-19",
-    "question": "Which club's home is Anfield?",
+    "question": "Which club plays home matches at the Santiago Bernab\u00e9u?",
     "choices": [
-      "Liverpool",
-      "Everton",
-      "Manchester United",
-      "Manchester City"
+      "Real Madrid",
+      "Barcelona",
+      "Atl\u00e9tico Madrid",
+      "Sevilla"
     ],
-    "answer": "Liverpool"
+    "answer": "Real Madrid"
   },
   {
     "id": "soc-20",
@@ -243,14 +243,14 @@
   },
   {
     "id": "soc-23",
-    "question": "Which Spanish club is known as 'Los Blancos'?",
+    "question": "Which Italian club is nicknamed 'La Vecchia Signora' (The Old Lady)?",
     "choices": [
-      "Barcelona",
-      "Real Madrid",
-      "Atl\u00e9tico Madrid",
-      "Sevilla"
+      "Juventus",
+      "AC Milan",
+      "Inter Milan",
+      "Roma"
     ],
-    "answer": "Real Madrid"
+    "answer": "Juventus"
   },
   {
     "id": "soc-24",
@@ -320,22 +320,22 @@
   },
   {
     "id": "soc-30",
-    "question": "Which German club is based in Munich and wears red?",
+    "question": "Which club did J\u00fcrgen Klopp manage immediately before Liverpool?",
     "choices": [
       "Borussia Dortmund",
       "Bayern Munich",
-      "RB Leipzig",
-      "Bayer Leverkusen"
+      "Mainz",
+      "RB Leipzig"
     ],
-    "answer": "Bayern Munich"
+    "answer": "Borussia Dortmund"
   },
   {
     "id": "soc-31",
-    "question": "What is it called when the ball goes out over the sideline?",
+    "question": "What restart is used when the ball wholly crosses the touchline?",
     "choices": [
-      "Goal kick",
-      "Corner kick",
       "Throw-in",
+      "Corner kick",
+      "Goal kick",
       "Drop ball"
     ],
     "answer": "Throw-in"
@@ -386,25 +386,25 @@
   },
   {
     "id": "soc-36",
-    "question": "What footwear is required on the pitch?",
+    "question": "What is the 'golden goal' rule used in some knockout tournaments?",
     "choices": [
-      "Cleats with studs or blades",
-      "Running shoes only",
-      "Sandals allowed",
-      "Bare feet only"
+      "First goal in extra time ends the match",
+      "A goal worth double points",
+      "Only the captain may score",
+      "A goal from outside the box counts as two"
     ],
-    "answer": "Cleats with studs or blades"
+    "answer": "First goal in extra time ends the match"
   },
   {
     "id": "soc-37",
-    "question": "Which Argentine star won the 2022 World Cup?",
+    "question": "Who scored the famous 'Hand of God' goal at the 1986 World Cup?",
     "choices": [
-      "Lionel Messi",
       "Diego Maradona",
-      "Sergio Ag\u00fcero",
-      "\u00c1ngel Di Mar\u00eda only"
+      "Pel\u00e9",
+      "Gabriel Batistuta",
+      "Lionel Messi"
     ],
-    "answer": "Lionel Messi"
+    "answer": "Diego Maradona"
   },
   {
     "id": "soc-38",
@@ -441,14 +441,14 @@
   },
   {
     "id": "soc-41",
-    "question": "What does a yellow card warn a player about?",
+    "question": "What is VAR primarily used for in top-level matches?",
     "choices": [
-      "Immediate ejection",
-      "Caution for misconduct",
-      "Free pizza",
-      "Extra substitution"
+      "Reviewing key refereeing decisions on video",
+      "Measuring player sprint speed",
+      "Choosing starting lineups",
+      "Setting ticket prices"
     ],
-    "answer": "Caution for misconduct"
+    "answer": "Reviewing key refereeing decisions on video"
   },
   {
     "id": "soc-42",

@@ -34,5 +34,11 @@
     "label": "Basketball",
     "emoji": "🏀",
     "file": "questions/basketball.json"
+  },
+  {
+    "id": "world-geography",
+    "label": "World Geography",
+    "emoji": "🌍",
+    "file": "questions/world-geography.json"
   }
 ]

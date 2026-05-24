@@ -1,14 +1,14 @@
 [
   {
     "id": "dis-01",
-    "question": "In Frozen, what is the name of Kristoff's reindeer companion?",
+    "question": "In Frozen, what is the name of the trading post owner Kristoff sells ice for?",
     "choices": [
-      "Sven",
-      "Olaf",
+      "Oaken",
       "Hans",
-      "Marshmallow"
+      "Duke of Weselton",
+      "Pabbie"
     ],
-    "answer": "Sven"
+    "answer": "Oaken"
   },
   {
     "id": "dis-02",
@@ -23,14 +23,14 @@
   },
   {
     "id": "dis-03",
-    "question": "What is the name of Simba's father in The Lion King?",
+    "question": "In The Lion King, what is the name of Simba's mother?",
     "choices": [
-      "Scar",
-      "Mufasa",
-      "Timon",
-      "Rafiki"
+      "Sarabi",
+      "Nala",
+      "Shenzi",
+      "Kiara"
     ],
-    "answer": "Mufasa"
+    "answer": "Sarabi"
   },
   {
     "id": "dis-04",
@@ -78,14 +78,14 @@
   },
   {
     "id": "dis-08",
-    "question": "Who is the villain in The Little Mermaid?",
+    "question": "In The Little Mermaid, what is Ariel's father's name?",
     "choices": [
-      "Ursula",
-      "Maleficent",
-      "Cruella",
-      "Yzma"
+      "King Triton",
+      "King Stefan",
+      "King Fergus",
+      "King Hubert"
     ],
-    "answer": "Ursula"
+    "answer": "King Triton"
   },
   {
     "id": "dis-09",
@@ -111,14 +111,14 @@
   },
   {
     "id": "dis-11",
-    "question": "Which princess has long magical hair?",
+    "question": "In Tangled, what is the name of Rapunzel's chameleon?",
     "choices": [
-      "Rapunzel",
-      "Merida",
-      "Moana",
-      "Tiana"
+      "Pascal",
+      "Maximus",
+      "Flit",
+      "Iago"
     ],
-    "answer": "Rapunzel"
+    "answer": "Pascal"
   },
   {
     "id": "dis-12",
@@ -133,36 +133,36 @@
   },
   {
     "id": "dis-13",
-    "question": "In Frozen, which sister accidentally freezes Arendelle?",
+    "question": "In Frozen, what is the name of the snow monster Elsa creates?",
     "choices": [
-      "Elsa",
-      "Anna",
+      "Marshmallow",
       "Olaf",
-      "Iduna"
+      "Sven",
+      "Bruni"
     ],
-    "answer": "Elsa"
+    "answer": "Marshmallow"
   },
   {
     "id": "dis-14",
-    "question": "What is the name of Peter Pan's fairy friend?",
+    "question": "In Peter Pan, what is the name of the pirate captain?",
     "choices": [
-      "Wendy",
-      "Tinker Bell",
-      "Tiger Lily",
-      "Nana"
+      "Captain Hook",
+      "Smee",
+      "Blackbeard",
+      "Davy Jones"
     ],
-    "answer": "Tinker Bell"
+    "answer": "Captain Hook"
   },
   {
     "id": "dis-15",
-    "question": "Which movie features the song 'A Whole New World'?",
+    "question": "Which Disney film features the song 'Colors of the Wind'?",
     "choices": [
-      "Aladdin",
+      "Pocahontas",
       "Mulan",
-      "Hercules",
-      "Pocahontas"
+      "Moana",
+      "Brave"
     ],
-    "answer": "Aladdin"
+    "answer": "Pocahontas"
   },
   {
     "id": "dis-16",
@@ -254,14 +254,14 @@
   },
   {
     "id": "dis-24",
-    "question": "What is the name of the bear who teaches Mowgli in The Jungle Book?",
+    "question": "In The Jungle Book, what is the name of the panther who mentors Mowgli?",
     "choices": [
-      "Baloo",
       "Bagheera",
+      "Baloo",
       "Shere Khan",
-      "King Louie"
+      "Kaa"
     ],
-    "answer": "Baloo"
+    "answer": "Bagheera"
   },
   {
     "id": "dis-25",
@@ -276,25 +276,25 @@
   },
   {
     "id": "dis-26",
-    "question": "What is the name of the dragon in Mulan?",
+    "question": "In Mulan, who is the captain Mulan grows close to?",
     "choices": [
+      "Li Shang",
       "Mushu",
-      "Shang",
-      "Khan",
-      "Cri-Kee"
+      "Chi-Fu",
+      "Shan Yu"
     ],
-    "answer": "Mushu"
+    "answer": "Li Shang"
   },
   {
     "id": "dis-27",
-    "question": "Which movie features the song 'Under the Sea'?",
+    "question": "Which film features the song 'Be Our Guest'?",
     "choices": [
+      "Beauty and the Beast",
+      "Cinderella",
       "The Little Mermaid",
-      "Moana",
-      "Finding Nemo",
-      "Lilo & Stitch"
+      "Enchanted"
     ],
-    "answer": "The Little Mermaid"
+    "answer": "Beauty and the Beast"
   },
   {
     "id": "dis-28",
@@ -309,14 +309,14 @@
   },
   {
     "id": "dis-29",
-    "question": "Who is the main villain in The Lion King?",
+    "question": "In The Lion King, what is the name of Simba's wise mandrill advisor?",
     "choices": [
-      "Scar",
-      "Hyenas only",
+      "Rafiki",
       "Zazu",
-      "Mufasa"
+      "Scar",
+      "Timon"
     ],
-    "answer": "Scar"
+    "answer": "Rafiki"
   },
   {
     "id": "dis-30",
@@ -342,14 +342,14 @@
   },
   {
     "id": "dis-32",
-    "question": "In Finding Nemo, what is the name of Nemo's father?",
+    "question": "In Finding Nemo, what is the address Dory remembers?",
     "choices": [
-      "Marlin",
-      "Bruce",
-      "Crush",
-      "Gill"
+      "P. Sherman, 42 Wallaby Way, Sydney",
+      "1600 Pennsylvania Ave",
+      "221B Baker Street",
+      "742 Evergreen Terrace"
     ],
-    "answer": "Marlin"
+    "answer": "P. Sherman, 42 Wallaby Way, Sydney"
   },
   {
     "id": "dis-33",
@@ -496,14 +496,14 @@
   },
   {
     "id": "dis-46",
-    "question": "In Snow White, how many dwarfs live in the cottage?",
+    "question": "In Snow White, what does the Evil Queen ask the mirror?",
     "choices": [
-      "Seven",
-      "Five",
-      "Six",
-      "Eight"
+      "Who is the fairest of them all?",
+      "Where is the prince?",
+      "How do I find the dwarfs?",
+      "What is the poison recipe?"
     ],
-    "answer": "Seven"
+    "answer": "Who is the fairest of them all?"
   },
   {
     "id": "dis-47",

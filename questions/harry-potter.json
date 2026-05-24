@@ -166,14 +166,14 @@
   },
   {
     "id": "hp-16",
-    "question": "What is the name of the three-headed dog?",
+    "question": "What plant do Harry and Ron use to breathe underwater in the Triwizard second task?",
     "choices": [
-      "Fluffy",
-      "Fang",
-      "Norbert",
-      "Aragog"
+      "Gillyweed",
+      "Mandrake",
+      "Devil's Snare",
+      "Bubotuber"
     ],
-    "answer": "Fluffy"
+    "answer": "Gillyweed"
   },
   {
     "id": "hp-17",
@@ -221,36 +221,36 @@
   },
   {
     "id": "hp-21",
-    "question": "What form does Harry's Patronus take?",
+    "question": "What is the name of the potion that forces the drinker to tell the truth?",
     "choices": [
-      "A stag",
-      "A wolf",
-      "An otter",
-      "A phoenix"
+      "Veritaserum",
+      "Polyjuice Potion",
+      "Felix Felicis",
+      "Amortentia"
     ],
-    "answer": "A stag"
+    "answer": "Veritaserum"
   },
   {
     "id": "hp-22",
-    "question": "Who escapes Azkaban in Prisoner of Azkaban?",
+    "question": "Who impersonates Alastor Moody using Polyjuice Potion in Goblet of Fire?",
     "choices": [
-      "Sirius Black",
-      "Bellatrix Lestrange",
       "Barty Crouch Jr.",
+      "Sirius Black",
+      "Peter Pettigrew",
       "Lucius Malfoy"
     ],
-    "answer": "Sirius Black"
+    "answer": "Barty Crouch Jr."
   },
   {
     "id": "hp-23",
-    "question": "Who killed Dumbledore on the Astronomy Tower?",
+    "question": "Who kills Nagini, Voldemort's snake, in the Battle of Hogwarts?",
     "choices": [
-      "Bellatrix",
-      "Snape",
-      "Draco",
-      "Wormtail"
+      "Neville Longbottom",
+      "Ron Weasley",
+      "Hermione Granger",
+      "Seamus Finnigan"
     ],
-    "answer": "Snape"
+    "answer": "Neville Longbottom"
   },
   {
     "id": "hp-24",
@@ -287,14 +287,14 @@
   },
   {
     "id": "hp-27",
-    "question": "From which London station platform does the Hogwarts Express depart?",
+    "question": "What is the name of the wizarding village next to Hogwarts?",
     "choices": [
-      "King's Cross",
-      "Paddington",
-      "Victoria",
-      "Euston"
+      "Hogsmeade",
+      "Godric's Hollow",
+      "Little Hangleton",
+      "Ottery St Catchpole"
     ],
-    "answer": "King's Cross"
+    "answer": "Hogsmeade"
   },
   {
     "id": "hp-28",
@@ -309,14 +309,14 @@
   },
   {
     "id": "hp-29",
-    "question": "Who is Harry's godfather?",
+    "question": "What is the name of the Weasley family's old owl?",
     "choices": [
-      "Sirius Black",
-      "Remus Lupin",
-      "Arthur Weasley",
-      "Alastor Moody"
+      "Errol",
+      "Hedwig",
+      "Pigwidgeon",
+      "Hermes"
     ],
-    "answer": "Sirius Black"
+    "answer": "Errol"
   },
   {
     "id": "hp-30",
@@ -419,47 +419,47 @@
   },
   {
     "id": "hp-39",
-    "question": "What spell is used to levitate objects in Charms class?",
+    "question": "Which spell did Gilderoy Lockhart botch, removing Harry's arm bones?",
     "choices": [
-      "Wingardium Leviosa",
-      "Alohomora",
-      "Expelliarmus",
-      "Accio"
+      "Brackium Emendo",
+      "Obliviate",
+      "Riddikulus",
+      "Stupefy"
     ],
-    "answer": "Wingardium Leviosa"
+    "answer": "Brackium Emendo"
   },
   {
     "id": "hp-40",
-    "question": "Who teaches Transfiguration?",
+    "question": "Who teaches Herbology at Hogwarts?",
     "choices": [
-      "Sprout",
-      "McGonagall",
-      "Trelawney",
-      "Sinistra"
+      "Professor Sprout",
+      "Professor McGonagall",
+      "Professor Snape",
+      "Professor Trelawney"
     ],
-    "answer": "McGonagall"
+    "answer": "Professor Sprout"
   },
   {
     "id": "hp-41",
-    "question": "Which house-elf initially serves the Malfoy family?",
+    "question": "Which house-elf serves the Black family at 12 Grimmauld Place?",
     "choices": [
-      "Dobby",
       "Kreacher",
+      "Dobby",
       "Winky",
       "Hokey"
     ],
-    "answer": "Dobby"
+    "answer": "Kreacher"
   },
   {
     "id": "hp-42",
-    "question": "Which tournament does Harry compete in during his fourth year?",
+    "question": "What is the name of the wizarding bank where Harry's vault is kept?",
     "choices": [
-      "Triwizard Tournament",
-      "Quidditch World Cup only",
-      "House Cup",
-      "Dueling Club"
+      "Gringotts",
+      "Wizard's Bank of London",
+      "Goblin Exchange",
+      "Diagon Trust"
     ],
-    "answer": "Triwizard Tournament"
+    "answer": "Gringotts"
   },
   {
     "id": "hp-43",
@@ -518,25 +518,25 @@
   },
   {
     "id": "hp-48",
-    "question": "What position does Harry play on the Gryffindor Quidditch team?",
+    "question": "Who becomes Gryffindor Quidditch captain after Oliver Wood leaves?",
     "choices": [
-      "Seeker",
-      "Chaser",
-      "Beater",
-      "Keeper"
+      "Angelina Johnson",
+      "Harry Potter",
+      "Katie Bell",
+      "Fred Weasley"
     ],
-    "answer": "Seeker"
+    "answer": "Angelina Johnson"
   },
   {
     "id": "hp-49",
-    "question": "What is the name of the mirror that shows your deepest desire?",
+    "question": "What device does Dumbledore use to store and review memories?",
     "choices": [
-      "Mirror of Erised",
-      "Mirror of Truth",
-      "Foe-Glass",
-      "Pensieve"
+      "The Pensieve",
+      "The Mirror of Erised",
+      "The Foe-Glass",
+      "The Deluminator"
     ],
-    "answer": "Mirror of Erised"
+    "answer": "The Pensieve"
   },
   {
     "id": "hp-50",
